@@ -1,7 +1,6 @@
 # Sign Up
 
 ## The Sign Up Dialog
-![](/assets/login-dialog.png)
 <img src="/assets/login-dialog.png" align="center">
 
 ### How to sign up for a free account?
