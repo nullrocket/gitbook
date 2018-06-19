@@ -1,4 +1,7 @@
 # Sign Up
+
+## The Sign Up Dialog
+![](/assets/login-dialog.png)
 ### How to sign up for a free account?
 
 Passpack accounts are free. Once you have signed up for an account, you will be able to access your account via the internet from any computer, and you are not required to install any software.
@@ -43,9 +46,9 @@ If you choose to, you can print out all three of your login credentials once you
 
 When choosing your Password, remember: long is strong. This is easy if you use a complete sentence. Here are some examples:
 
-*  Hi Howdy Ho
-*  i want my mtv
-*  my cat has stripes
+* Hi Howdy Ho
+* i want my mtv
+* my cat has stripes
 
 Really, it's that easy!
 
@@ -120,7 +123,7 @@ To use your Facebook Login, go to [https://www.passpack.com/online](https://www.
 
 ### How to sign up for Passpack with OpenID?
 
-Passpack is supports OpenID as a relying party, also called an OpenID consumer. This means you can use your OpenID as the login for your Passpack account. 
+Passpack is supports OpenID as a relying party, also called an OpenID consumer. This means you can use your OpenID as the login for your Passpack account.
 
 #### How to Sign Up
 
@@ -132,7 +135,7 @@ To sign into your Passpack account, go to [https://www.passpack.com/openid](http
 
 ### How to delete a third party login?
 
-Third Party Logins can be deleted ONLY if you also have a standard Passpack User ID and Password combination. If you do not have these, you can set them up under Account &gt; Set a User ID and Settings &gt; Set a Password. 
+Third Party Logins can be deleted ONLY if you also have a standard Passpack User ID and Password combination. If you do not have these, you can set them up under Account &gt; Set a User ID and Settings &gt; Set a Password.
 
 To manage your Third Party Logins, go to Account &gt; Associate Another Login from within your Passpack account. Scroll down to the see the list of Third Party Logins that have been previously associated. To the right of each login, you should see an X. Click the X to remove Third Party Login.
 
