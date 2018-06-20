@@ -64,6 +64,16 @@ You can choose whether or not you want to give Passpack your email address, howe
 
 # Packing Key 
 
+<div class="alert alert-tip hints-alert">
+  <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
+  <div class="hints-container">
+    <p>You want your Packing Key to be as long and strong as possible. The easiest way to do that is to think of a sentence that only means something to you. </p>
+  </div>
+</div> 
+
+Your packing key is arguably the most important part of securing your account. While your Passpack account passwords grants you access to your account, the Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
+
+Since we do not store your Packing Key, you will have to be very careful to never forget it. We will not be able to recover or reset your key. This probably sounds pretty scary, but it is the safest option.
 
 # Third Party Sign Up
 
@@ -74,34 +84,6 @@ You simply login to Passpack with one of these accounts, then choose a Packing K
 #### Print Yourself a Reminder
 
 If you choose to, you can print out all three of your login credentials once you've entered your account. Store your printed login information in a VERY safe place, like a lock box. If you forget your Password, then we can reset that for you as long as you've provided an email. However, we can NOT recover or reset your Packing Key - **do not forget your Packing Key.**
-
-### How to choose a password?
-
-When choosing your Password, remember: long is strong. This is easy if you use a complete sentence. Here are some examples:
-
-* Hi Howdy Ho
-* i want my mtv
-* my cat has stripes
-
-Really, it's that easy!
-
-You can change your Password whenever you'd like by going to Account &gt; Change Password from within your Passpack account. If you forget your Password, it con only be reset if you have set up an email for your account.
-
-#### Minimum Requirements
-
-Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers, foreign characters or even spaces. You can also watch the quality rating as you type to see how successful you are, we suggest a quality rating of at least 64 \(optional\).
-
-### How to choose a user ID?
-
-Like any other online account, this is what Passpack will know you by. Some other websites call it ausername, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a _User ID_.
-
-Some people like to use their name. You can use capital letters and spaces if you wish, so your User IDcould be "jacksmith" or "Jack Smith". This is your choice, just remember that Passpack considers these two totally different things.
-
-You can change your User ID whenever you'd like by going to Account &gt; Change User ID from within your Passpack account. If you forget your User ID, it con only be recovered if you have set up an email for your account.
-
-#### Minimum Requirements
-
-Your _User ID_ must be at least 3 characters longs and it is case sensitive. It is ok to use accented letters, or a letters from a different alphabet.
 
 ## Third Party Credentials
 
