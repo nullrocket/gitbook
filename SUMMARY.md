@@ -7,4 +7,6 @@
 ## Account
 
 * [Account Creation](account/asd.md)
+  * [Sign Up](account/asd/sign-up.md)
+  * Third Party Logins
 
