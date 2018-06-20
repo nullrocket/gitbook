@@ -19,7 +19,7 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
   Your _User ID_ must be between 2 and 32 characters long and is case sensitive.
   
    <div class="alert alert-tip hints-alert">
-    <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
+    <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"></i> <strong>Tip</strong></div>
     <div class="hints-container">
       <p>Be careful not inadvertently leave your CAPS lock (or Shift lock) on.</p>
     </div>
