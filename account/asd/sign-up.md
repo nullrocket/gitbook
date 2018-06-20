@@ -1,3 +1,4 @@
+# The Sign Up Dialog
 ![](/assets/login-dialog.png)
 
 <!--- Start User ID --->
@@ -55,6 +56,8 @@ You can choose whether or not you want to give Passpack your email address, howe
 In order to use Passpack you will need to read and Accept the <a href="https://www.passpack.com/en/legal/ua.php">User Agreement</a> and <a href="https://www.passpack.com/privacy/">Privacy Policy</a>
 . These two documents outline what you can expect from us and how your data will be handled.
 </div>
+</div>
+
 # Packing Key
 
 Your packing key is arguably the most important part of securing your account. While your Passpack account passwords grants you access to your account, the Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
