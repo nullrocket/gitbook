@@ -56,7 +56,8 @@ You can choose whether or not you want to give Passpack your email address, howe
 </div>
 
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
-  In order to use Passpack you will need to read and Accept the [User Agreement](https://www.passpack.com/en/legal/ua.php) and [Privacy Policy](https://www.passpack.com/privacy/). These two documents outline what you can expect from us and how your data will be treated. 
+  In order to use Passpack you will need to read and Accept the <a href="https://www.passpack.com/en/legal/ua.php">User Agreement</a> and <a href="https://www.passpack.com/privacy/">Privacy Policy</a>
+. These two documents outline what you can expect from us and how your data will be handled. 
 </div>
 
 
