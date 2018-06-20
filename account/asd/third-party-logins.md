@@ -1,19 +1,13 @@
-# Third Party Sign Up
+# Third Party Providers
 
-If you have an [OpenID](https://www.passpack.com/openid), a [Gmail](https://www.passpack.com/google), a [Hotmail](https://www.passpack.com/windowslive), [Yahoo](https://www.passpack.com/yahoo), [Facebook](https://www.passpack.com/facebook), [FriendFeed](https://www.passpack.com/friendfeed) or [Twitter](https://www.passpack.com/twitter) account -- then you already have a Passpack account waiting for you - no registration needed.
+#### Supported Third Party Providers
 
-#### Supported Third Party Credential Providers
-
-* Google \(Gmail\)
-* Windows Live ID \(MSN, Hotmail\)
-* Facebook
-* OpenID \(all providers accepted\)
-* Yahoo! \(Flickr\)
-* Twitter
-* FriendFeed
+* Windows Live ID
+* OpenID 
+* Yahoo! 
 * Yubikey
 
-#### Third Party Login for Existing Accounts
+## Third Party Login for Existing Accounts
 
 If you already have a Passpack account, then you have probably already chosen a Passpack User ID and Password. However you can still associate a Third Party Login to your account. You can associate as many Third Party Logins with your account as you like.
 
@@ -23,34 +17,6 @@ Additional Third Party Logins can be added ONLY if you have also a standard Pass
 
 To manage your Third Party Logins, go to Account &gt; Associate Another Login from within your Passpack account. Click the Start Now button and then choose which kind of login you'd like to associate with the account.
 
-### How to sign up for Passpack with Yahoo!
-
-Passpack allows you to use an existing login you have for your Yahoo! account as the login for your Passpack account.
-
-#### How to Sign Up
-
-To use your Yahoo! Login, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the Yahoo! icon on the left, then use the Yahoo! Sign In button that will appear in the sign up dialog . This will take you to Yahoo! so you can login and give Passpack permission to access your account. You can then finish your Passpack registration by creating your _Packing Key_.
-
-### How to sign up for Passpack with Facebook?
-
-Passpack allows you to use an existing login you have for your Facebook account as the login for your Passpack account.
-
-#### How to Sign Up
-
-To use your Facebook Login, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the Facebook icon on the left, then use the Facebook Sign In button that will appear in the sign up dialog . This will take you to Facebook so you can login and give Passpack permission to access your account. You can then finish your Passpack registration by creating your _Packing Key_.
-
-### How to sign up for Passpack with OpenID?
-
-Passpack is supports OpenID as a relying party, also called an OpenID consumer. This means you can use your OpenID as the login for your Passpack account.
-
-#### How to Sign Up
-
-To use your OpenID, go to [https://www.passpack.com/online](https://www.passpack.com/online) and insert your OpenID identity and provider. This will take you to your OpenID provider so you can login and give Passpack permission to access your account. You can then finish your Passpack registration by creating your _Packing Key_. Watch the video below to see how it works.
-
-#### Bookmark the Sign In Page
-
-To sign into your Passpack account, go to [https://www.passpack.com/openid](https://www.passpack.com/openid). We suggest you bookmark that page for faster access.
-
 ### How to delete a third party login?
 
 Third Party Logins can be deleted ONLY if you also have a standard Passpack User ID and Password combination. If you do not have these, you can set them up under Account &gt; Set a User ID and Settings &gt; Set a Password.
@@ -59,11 +25,15 @@ To manage your Third Party Logins, go to Account &gt; Associate Another Login fr
 
 This will not delete your Passpack account. It will simply tell Passpack, for example, "I no longer want to use my Facebook account to sign into Passpack."
 
-### Frequent third party login questions?
+## Signing Up with Third Party Credentials
 
-#### Can I have use a standard Passpack login AND a Third Party Login?
+Passpack allows you to use an existing login from one of the supported providers as the login for your Passpack account.
 
-All Free and premium Passpack accounts allow ONE Passpack standard User ID and Passwordcombination, plus as many Third Party Logins as you wish.
+#### How to Sign Up
+
+To use your Third Party Credentials, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the provider's icon on the left, then follow the instructions that will appear in the Sign In dialog to the right.
+
+
 
 #### Am I require to have a Passpack login, or can I just have a Third Party Login?
 
