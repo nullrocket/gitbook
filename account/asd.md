@@ -41,8 +41,13 @@ Your _Password_ must be at least 6 characters long and is also case sensitive. Y
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Email Address</span>
 </div>
 
+<div style="margin-left: 2.25em; margin-bottom: 1em;">
+
 
 You can choose whether or not you want to give Passpack your email address. It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
+</div>
+
+
 
 
 <div>
