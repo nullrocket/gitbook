@@ -19,9 +19,9 @@ Your _User ID_ must be between 2 and 32 characters long and is case sensitive.
 
  <div class="alert alert-tip hints-alert">
   <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o	
-"> Tip</i></div>
+"> <strong>Tip</strong></i></div>
   <div class="hints-container">
-    <p>Be careful not inadvertently leave your CAPS lock \(or Shift lock\) on.
+    <p>Be careful not inadvertently leave your CAPS lock (or Shift lock) on.
 </p>
   </div>
 </div> 
