@@ -7,9 +7,6 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
 
 ![](/assets/login-dialog.png)
 
-### How to sign up for a free account?
-
-
 <div>
   <img style="vertical-align:middle" src="/assets/Step 1.png">
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">User ID</span>
