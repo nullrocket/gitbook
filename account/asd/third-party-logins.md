@@ -33,7 +33,7 @@ Passpack allows you to use an existing login from one of the supported providers
 <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
 <div class="hints-container">
 The standard Passpack Login is not required. However, some features do not work with Third Party Logins. For example, the <a href="">remember me feature</a> and <a href="">Disposable Logins</a> are available on standard Passpack logins only.
-
+</div>
 </div>
 #### How to Sign Up
 
