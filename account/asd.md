@@ -10,7 +10,7 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
 
 <div>
   <img style="vertical-align:middle" src="/assets/Step 1.png">
-  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">User ID</span>
+  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 2em;">User ID</span>
 </div>
 
 You will choose your own _User ID_. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a _User ID_.
