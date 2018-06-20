@@ -3,7 +3,7 @@ Passpack accounts are free. Once you have signed up for an account, you will be 
 To get your personal Passpack account, go to the Passpack homepage and click on "[Sign Up for an Account](https://www.passpack.com/online/?showSignup=1)". Registration is fast. You will simply need to choose three pieces of information that will make up your Passpack account. That is all you'll need to know to login to Passpack from any computer.
 
 
-## The Sign Up Dialog
+# The Sign Up Dialog
 
 ![](/assets/login-dialog.png)
 
@@ -52,14 +52,10 @@ You can choose whether or not you want to give Passpack your email address. It's
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Terms of Service & Privacy Policy</span>
 </div>
 
+# Packing Key 
 
-#### Additional Options
 
-**Email**
-
-You can choose whether or not you want to give Passpack your email address. It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
-
-**Use Passpack Without Registering**
+# Third Party Sign Up
 
 If you have an [OpenID](https://www.passpack.com/openid), a [Gmail](https://www.passpack.com/google), a [Hotmail](https://www.passpack.com/windowslive), [Yahoo](https://www.passpack.com/yahoo), [Facebook](https://www.passpack.com/facebook), [FriendFeed](https://www.passpack.com/friendfeed) or [Twitter](https://www.passpack.com/twitter) account -- then you already have a Passpack account waiting for you - no registration needed.
 
