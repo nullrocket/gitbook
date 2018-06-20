@@ -17,7 +17,7 @@ You will use your User ID to log into your Passpack account.
 
 Your _User ID_ must be between 2 and 32 characters long and is case sensitive.
 
- <div class="alert alert-info hints-alert">
+ <div class="alert alert-tip hints-alert">
   <div class="hints-icon"><i class="fa fa-info"></i></div>
   <div class="hints-container">
     <p>Be careful not inadvertently leave your CAPS lock \(or Shift lock\) on.
