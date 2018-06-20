@@ -2,10 +2,6 @@ Passpack accounts are free. Once you have signed up for an account, you will be 
 
 To get your personal Passpack account, go to the Passpack homepage and click on "[Sign Up for an Account](https://www.passpack.com/online/?showSignup=1)". Registration is fast. 
 
-{% hint style='info' %}
-Important info: this note needs to be highlighted
-{% endhint %}
-
 
 # The Sign Up Dialog
 
@@ -18,10 +14,6 @@ Important info: this note needs to be highlighted
  
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 You will use your User ID to log into your Passpack account.
-{% hint style='tip' %}
-Important info: this note needs to be highlighted
-{% endhint %}
-
 
 Your _User ID_ must be between 2 and 32 characters long and is case sensitive. Be careful not inadvertently leave your CAPS lock \(or Shift lock\) on.
 </div>
