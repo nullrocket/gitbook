@@ -64,6 +64,8 @@ You can choose whether or not you want to give Passpack your email address, howe
 
 # Packing Key 
 
+Your packing key is arguably the most important part of securing your account. While your Passpack account passwords grants you access to your account, the Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
+
 <div class="alert alert-tip hints-alert">
   <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
   <div class="hints-container">
@@ -71,9 +73,17 @@ You can choose whether or not you want to give Passpack your email address, howe
   </div>
 </div> 
 
-Your packing key is arguably the most important part of securing your account. While your Passpack account passwords grants you access to your account, the Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
-
 Since we do not store your Packing Key, you will have to be very careful to never forget it. We will not be able to recover or reset your key. This probably sounds pretty scary, but it is the safest option.
+
+<div class="alert alert-warning hints-alert">
+  <div class="hints-icon"><i class="fa fa-lg fa-warning"> <strong>Warning</strong></i></div>
+  <div class="hints-container">
+    <p><strong>Do NOT forget your packing key</strong>. We will not be able to recover or reset your key.</p>
+  </div>
+</div> 
+
+
+
 
 # Third Party Sign Up
 
