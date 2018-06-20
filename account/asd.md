@@ -24,14 +24,17 @@ Your _User ID_ must be at least 3 characters longs and it is case sensitive. So 
 </div>
 
 <div>
-  <img style="vertical-align:middle" src="/assets/Step 1.png">
+  <img style="vertical-align:middle" src="/assets/Step 2.png">
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Password</span>
 </div>
 
+<div style="margin-left: 2.25em; margin-bottom: 1em;">
 
 You will also choose your own _Password_. This is our way of saying "password" or "pass phrase". We simply use a the shortened word. This way, when reading instructions in the Passpack Help Center, you will be able to tell the difference between the passwords you store in your Passpack account \(called "passwords"\), and the one you need to login to your Passpack account \(the "Password"\).
 
 Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. You can also watch the quality rating as you type to see how successful you are, we suggest a quality rating of at least 64 \(optional\).
+</div>
+
 
 <div>
   <img style="vertical-align:middle" src="/assets/Step 1.png">
