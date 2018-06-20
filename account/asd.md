@@ -12,12 +12,12 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">User ID</span>
 </div>
 
+<div style="margin-left: 2.25em; margin-bottom: 1em;">
+You will use your User ID to log into your Passpack account.
 {% hint style='info' %}
 Important info: this note needs to be highlighted
 {% endhint %}
 
-<div style="margin-left: 2.25em; margin-bottom: 1em;">
-You will use your User ID to log into your Passpack account.
 
 Your _User ID_ must be between 2 and 32 characters long and is case sensitive. Be careful not inadvertently leave your CAPS lock \(or Shift lock\) on.
 </div>
