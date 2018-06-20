@@ -18,7 +18,7 @@ Important info: this note needs to be highlighted
  
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 You will use your User ID to log into your Passpack account.
-{% hint style='info' %}
+{% hint style='tip' %}
 Important info: this note needs to be highlighted
 {% endhint %}
 
