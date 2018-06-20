@@ -17,7 +17,7 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 You will use your User ID to log into your Passpack account.
 
-### Minimum Requierments
+<h4>Minimum Requirements</h4>
 Your _User ID_ must be at least 3 characters longs and it is case sensitive. So consider that as you type. Be careful not to have your CAPS lock \(or Shift lock\) on.
 </div>
 
