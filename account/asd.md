@@ -2,6 +2,10 @@ Passpack accounts are free. Once you have signed up for an account, you will be 
 
 To get your personal Passpack account, go to the Passpack homepage and click on "[Sign Up for an Account](https://www.passpack.com/online/?showSignup=1)". Registration is fast. 
 
+{% hint style='info' %}
+Important info: this note needs to be highlighted
+{% endhint %}
+
 
 # The Sign Up Dialog
 
