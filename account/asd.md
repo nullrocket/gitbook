@@ -46,7 +46,14 @@ Your _Password_ must be at least 6 characters long and is also case sensitive. Y
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 
 
-You can choose whether or not you want to give Passpack your email address, however we highly suggest you do as it is necessary in order for us to provide you with account recovery options and account notifications. Don't worry, we will not send you spam or sell your information to a third party.
+  You can choose whether or not you want to give Passpack your email address, however we highly suggest you do as it is necessary in order for us to provide you with account recovery options and account notifications. Don't worry, we will not send you spam or sell your information to a third party.
+  
+  <div class="alert alert-warning hints-alert">
+    <div class="hints-icon"><i class="fa fa-lg fa-warning"> <strong>Warning</strong></i></div>
+    <div class="hints-container">
+      <p>If you do not provide an email address, we will not be able to help you reset your password.</p>
+    </div>
+  </div> 
 </div>
 
 
