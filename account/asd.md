@@ -1,12 +1,14 @@
+Passpack accounts are free. Once you have signed up for an account, you will be able to access your account via the internet from any computer, and you are not required to install any software.
+
+To get your personal Passpack account, go to the Passpack homepage and click on "[Sign Up for an Account](https://www.passpack.com/online/?showSignup=1)". Registration is fast. You will simply need to choose three pieces of information that will make up your Passpack account. That is all you'll need to know to login to Passpack from any computer.
+
+
 ## The Sign Up Dialog
 
 ![](/assets/login-dialog.png)
 
 ### How to sign up for a free account?
 
-Passpack accounts are free. Once you have signed up for an account, you will be able to access your account via the internet from any computer, and you are not required to install any software.
-
-To get your personal Passpack account, go to the Passpack homepage and click on "[Sign Up for an Account](https://www.passpack.com/online/?showSignup=1)". Registration is fast. You will simply need to choose three pieces of information that will make up your Passpack account. That is all you'll need to know to login to Passpack from any computer.
 
 <div>
   <img style="vertical-align:middle" src="/assets/Step 1.png">
