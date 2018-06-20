@@ -7,26 +7,25 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
 
 ![](/assets/login-dialog.png)
 
-<div>
-  <img style="vertical-align:middle" src="/assets/Step 1.png">
-  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">User ID</span>
-</div>
- 
-<div style="margin-left: 2.25em; margin-bottom: 1em;">
-You will use your User ID to log into your Passpack account.
-
-Your _User ID_ must be between 2 and 32 characters long and is case sensitive.
-
- <div class="alert alert-tip hints-alert">
-  <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o	
-"> <strong>Tip</strong></i></div>
-  <div class="hints-container">
-    <p>Be careful not inadvertently leave your CAPS lock (or Shift lock) on.
-</p>
+<!--- Start User ID --->
+  <div>
+    <img style="vertical-align:middle" src="/assets/Step 1.png">
+    <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">User ID</span>
   </div>
-</div> 
-</div>
-
+   
+  <div style="margin-left: 2.25em; margin-bottom: 1em;">
+  You will use your User ID to log into your Passpack account.
+  
+  Your _User ID_ must be between 2 and 32 characters long and is case sensitive.
+  
+   <div class="alert alert-tip hints-alert">
+    <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"><strong>Tip</strong></i></div>
+    <div class="hints-container">
+      <p>Be careful not inadvertently leave your CAPS lock (or Shift lock) on.</p>
+    </div>
+  </div> 
+  </div>
+<!--- End User ID --->
 <div>
   <img style="vertical-align:middle" src="/assets/Step 2.png">
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Password</span>
@@ -34,9 +33,7 @@ Your _User ID_ must be between 2 and 32 characters long and is case sensitive.
 
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 
-You will also choose your own _Password_. This is our way of saying "password" or "pass phrase". We simply use a the shortened word. This way, when reading instructions in the Passpack Help Center, you will be able to tell the difference between the passwords you store in your Passpack account \(called "passwords"\), and the one you need to login to your Passpack account \(the "Password"\).
-
-Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. You can also watch the quality rating as you type to see how successful you are, we suggest a quality rating of at least 64 \(optional\).
+Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
 </div>
 
 
@@ -48,10 +45,8 @@ Your _Password_ must be at least 6 characters long and is also case sensitive. Y
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
 
 
-You can choose whether or not you want to give Passpack your email address. It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
+You can choose whether or not you want to give Passpack your email address, however we highly suggest you do as it is necessary in order for us to provide you with account recovery options and account notifications. Don't worry, we will not send you spam or sell your information to a third party.
 </div>
-
-
 
 
 <div>
