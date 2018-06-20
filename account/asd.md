@@ -52,8 +52,14 @@ You can choose whether or not you want to give Passpack your email address, howe
 
 <div>
   <img style="vertical-align:middle" src="/assets/Step 4.png">
-  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Terms of Service & Privacy Policy</span>
+  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">User Agreement & Privacy Policy</span>
 </div>
+
+<div style="margin-left: 2.25em; margin-bottom: 1em;">
+  In order to use Passpack you will need to read and Accept the [User Agreement](https://www.passpack.com/en/legal/ua.php) and [Privacy Policy](https://www.passpack.com/privacy/). These two documents outline what you can expect from us and how your data will be treated. 
+</div>
+
+
 
 # Packing Key 
 
