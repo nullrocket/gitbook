@@ -74,6 +74,6 @@ Since we do not store your Packing Key, you will have to be very careful to neve
 <div class="alert alert-danger hints-alert">
 <div class="hints-icon"><i class="fa fa-lg fa-warning"> <strong>Warning</strong></i></div>
 <div class="hints-container">
-<p><strong>Do NOT forget your packing key</strong>. We will not be able to recover or reset your key.</p>
+<p><strong>DO NOT forget your packing key</strong>. We will not be able to recover or reset your key.</p>
 </div>
 </div>
