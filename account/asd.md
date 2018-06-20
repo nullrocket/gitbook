@@ -37,17 +37,16 @@ Your _Password_ must be at least 6 characters long and is also case sensitive. Y
 
 
 <div>
-  <img style="vertical-align:middle" src="/assets/Step 1.png">
-  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Packing Key</span>
+  <img style="vertical-align:middle" src="/assets/Step 3.png">
+  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Email Address</span>
 </div>
 
 
-Last step, you will choose your secret _Packing Key_. Choosing your _Packing Key_ is easy, it's just a regular password, that Passpack uses in a special way to keep your account safe.
+You can choose whether or not you want to give Passpack your email address. It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
 
-Your _Packing Key_ must be at least 8 characters long and is also case sensitive. You can \(and should!\) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 \(optional\).
 
 <div>
-  <img style="vertical-align:middle" src="/assets/Step 1.png">
+  <img style="vertical-align:middle" src="/assets/Step 4.png">
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Terms of Service & Privacy Policy</span>
 </div>
 
