@@ -17,7 +17,7 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
 
 
 
-<div style="margin-left: 5em;">
+<div style="margin-left: 2em;">
 You will choose your own _User ID_. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a _User ID_.
 
 Your _User ID_ must be at least 3 characters longs and it is case sensitive. So consider that as you type. Be careful not to have your CAPS lock \(or Shift lock\) on.
