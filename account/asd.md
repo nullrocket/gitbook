@@ -19,17 +19,31 @@ You will choose your own _User ID_. Like any other online account, this is what 
 
 Your _User ID_ must be at least 3 characters longs and it is case sensitive. So consider that as you type. Be careful not to have your CAPS lock \(or Shift lock\) on.
 
-#### 2. Password
+<div>
+  <img style="vertical-align:middle" src="/assets/Step 1.png">
+  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Password</span>
+</div>
+
 
 You will also choose your own _Password_. This is our way of saying "password" or "pass phrase". We simply use a the shortened word. This way, when reading instructions in the Passpack Help Center, you will be able to tell the difference between the passwords you store in your Passpack account \(called "passwords"\), and the one you need to login to your Passpack account \(the "Password"\).
 
 Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. You can also watch the quality rating as you type to see how successful you are, we suggest a quality rating of at least 64 \(optional\).
 
-#### 3. Packing Key
+<div>
+  <img style="vertical-align:middle" src="/assets/Step 1.png">
+  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Packing Key</span>
+</div>
+
 
 Last step, you will choose your secret _Packing Key_. Choosing your _Packing Key_ is easy, it's just a regular password, that Passpack uses in a special way to keep your account safe.
 
 Your _Packing Key_ must be at least 8 characters long and is also case sensitive. You can \(and should!\) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 \(optional\).
+
+<div>
+  <img style="vertical-align:middle" src="/assets/Step 1.png">
+  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Terms of Service & Privacy Policy</span>
+</div>
+
 
 #### Additional Options
 
