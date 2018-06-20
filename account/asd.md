@@ -14,16 +14,16 @@ To get your personal Passpack account, go to the Passpack homepage and click on 
   </div>
    
   <div style="margin-left: 2.25em; margin-bottom: 1em;">
-  You will use your User ID to log into your Passpack account.
-  
-  Your User ID must be between 2 and 32 characters long and is case sensitive.
-  
-   <div class="alert alert-tip hints-alert">
-    <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
-    <div class="hints-container">
-      <p>Be careful not inadvertently leave your CAPS lock (or Shift lock) on.</p>
-    </div>
-  </div> 
+    You will use your User ID to log into your Passpack account.
+    
+    Your User ID must be between 2 and 32 characters long and is case sensitive.
+    
+     <div class="alert alert-tip hints-alert">
+      <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
+      <div class="hints-container">
+        <p>Be careful not inadvertently leave your CAPS lock (or Shift lock) on.</p>
+      </div>
+    </div> 
   </div>
 <!--- End User ID --->
 
