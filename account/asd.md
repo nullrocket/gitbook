@@ -89,28 +89,11 @@ Since we do not store your Packing Key, you will have to be very careful to neve
   </div>
 </div> 
 
-
-
-
 # Third Party Sign Up
 
 If you have an [OpenID](https://www.passpack.com/openid), a [Gmail](https://www.passpack.com/google), a [Hotmail](https://www.passpack.com/windowslive), [Yahoo](https://www.passpack.com/yahoo), [Facebook](https://www.passpack.com/facebook), [FriendFeed](https://www.passpack.com/friendfeed) or [Twitter](https://www.passpack.com/twitter) account -- then you already have a Passpack account waiting for you - no registration needed.
 
-You simply login to Passpack with one of these accounts, then choose a Packing Key and you're done. For more information, search on either "Third Party Authentication" or the name of the service you are interested in using \(ex. Gmail\).
-
-#### Print Yourself a Reminder
-
-If you choose to, you can print out all three of your login credentials once you've entered your account. Store your printed login information in a VERY safe place, like a lock box. If you forget your Password, then we can reset that for you as long as you've provided an email. However, we can NOT recover or reset your Packing Key - **do not forget your Packing Key.**
-
-## Third Party Credentials
-
-### What is a third party login?
-
-When you sign into Passpack, you usually provide your Passpack User ID and Password. A Third Party Login replaces that User ID / Password combination with its own. You will always have to choose and provide your Packing Key.
-
-For example, if you have a Gmail account, you can use your Gmail username and password to login to Passpack instead of the Passpack User ID and Password. Then you insert your Packing Key. All done.
-
-#### Passpack Supports These Third Party Logins
+#### Supported Third Party Credential Providers
 
 * Google \(Gmail\)
 * Windows Live ID \(MSN, Hotmail\)
@@ -121,19 +104,13 @@ For example, if you have a Gmail account, you can use your Gmail username and pa
 * FriendFeed
 * Yubikey
 
-#### Benefits for New Passpack Users
+#### Third Party Login for Existing Accounts
 
-For folks who do not yet have a Passpack account, Third Party Logins make signing up go much faster, and you are not required to create and remember yet another username and password... after all, if you're signing up for Passpack, you probably already have too many password to remember as it is.
-
-#### Benefits for Existing Passpack Users
-
-If you already have a Passpack account, then you have probably already chosen a Passpack User ID and Password. However you can still associate a Third Party Login to your account. In any given moment, you can choose to login with whichever credentials you prefer.
-
-For example, if you are constantly on Facebook, you can associate your Facebook login to your Passpack account. When you go to [https://www.passpack.com/online](https://www.passpack.com/online) and press the Sign In button. Facebook will do the rest. then you insert your Packing Key. All done.
+If you already have a Passpack account, then you have probably already chosen a Passpack User ID and Password. However you can still associate a Third Party Login to your account. You can associate as many Third Party Logins with your account as you like.
 
 ### How to add a third party login?
 
-Additional Third Party Logins can be added ONLY if you have also a standard Passpack User ID andPassword combination. If you do not have these, you can set them up under Account &gt; Set a User IDand Account &gt; Set a Password.
+Additional Third Party Logins can be added ONLY if you have also a standard Passpack User ID and Password combination. If you do not have these, you can set them up under Account &gt; Set a User ID and Account &gt; Set a Password.
 
 To manage your Third Party Logins, go to Account &gt; Associate Another Login from within your Passpack account. Click the Start Now button and then choose which kind of login you'd like to associate with the account.
 
