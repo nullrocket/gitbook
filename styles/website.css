@@ -1,12 +1,3 @@
-.numbered-icon-list-heading span{
+.alert{
     margin-top: 1.275em; 
-    margin-bottom: .85em; 
-    font-weight: 700; 
-    font-size: 1.25em;
-}
-
-.numbered-icon-list-heading img {
-    vertical-align: middle;
-}
-.numbered-icon-list-body {
 }
