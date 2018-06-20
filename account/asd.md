@@ -75,7 +75,7 @@ Your packing key is arguably the most important part of securing your account. W
 
 Since we do not store your Packing Key, you will have to be very careful to never forget it. We will not be able to recover or reset your key. This probably sounds pretty scary, but it is the safest option.
 
-<div class="alert alert-warning hints-alert">
+<div class="alert alert-danger hints-alert">
   <div class="hints-icon"><i class="fa fa-lg fa-warning"> <strong>Warning</strong></i></div>
   <div class="hints-container">
     <p><strong>Do NOT forget your packing key</strong>. We will not be able to recover or reset your key.</p>
