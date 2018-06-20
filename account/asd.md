@@ -1,15 +1,14 @@
 # Sign Up
 
 ## The Sign Up Dialog
-<img src="/assets/login-dialog.png" align="center">
-
+![](/assets/login-dialog.png)
 ### How to sign up for a free account?
 
 Passpack accounts are free. Once you have signed up for an account, you will be able to access your account via the internet from any computer, and you are not required to install any software.
 
 To get your personal Passpack account, go to the Passpack homepage and click on "[Sign Up for an Account](https://www.passpack.com/online/?showSignup=1)". Registration is fast. You will simply need to choose three pieces of information that will make up your Passpack account. That is all you'll need to know to login to Passpack from any computer.
 
-#### 1. User ID
+<img style="float: right; vertical-align:middle " src="/assets/Step 1.png">asdf
 
 You will choose your own _User ID_. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a _User ID_.
 
