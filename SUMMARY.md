@@ -16,4 +16,6 @@
   * [Remember Me](account/remember-me.md)
 * [Recovery](account/recovery.md)
 * [Settings](account/settings.md)
+  * [Account Settings](account/settings/account-settings.md)
+  * [Team Settings](account/settings/team-settings.md)
 
