@@ -15,4 +15,5 @@
   * [Welcome Message](account/welcome-message.md)
   * [Remember Me](account/remember-me.md)
 * [Recovery](account/recovery.md)
+* [Settings](account/settings.md)
 
