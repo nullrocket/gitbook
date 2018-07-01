@@ -12,6 +12,7 @@
 * [Sign In](account/sign-in.md)
   * [How to Sign In](account/how-to-sign-in.md)
   * [On Screen Keyboard](account/on-screen-keyboard.md)
-  * Welcome Message
-  * Remember Me
+  * [Welcome Message](account/welcome-message.md)
+  * [Remember Me](account/remember-me.md)
+* [Recovery](account/recovery.md)
 
