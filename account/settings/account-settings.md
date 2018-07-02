@@ -1,4 +1,4 @@
-## Account Settings
+# Account Settings
 
 ### How to print your login credentials?
 
@@ -49,7 +49,7 @@ If your email changes, please keep this updated in your Passpack account. Go to 
 
 You can decide how long your Passpack account stays inactive before it locks up. You can also set it to automatically save any changes you've made in the meantime. To set your preferences, go into your Settings &gt; Packing and Saving.
 
-![](../.gitbook/assets/packingsaving.jpg)
+![](/assets/assets%2F-LCBoecSUMMtKc_rFkkd%2F-LEIE24egjDHP7sAxWgu%2F-LEIEah6YyDQLBKD6JRq%2Fpackingsaving.jpg)
 
 **\(1\)** Passpack will automatically save all your changes as you make them. If you would like to prevent this, change the setting to **No**. Otherwise, leave it as-is.
 
@@ -65,7 +65,7 @@ You can decide how long your Passpack account stays inactive before it locks up.
 
 You can set the number of rows in your password list and what you want to see for each entry in the list. To set your preferences, go into your Settings &gt; Appearance. There are a number of options available to you. The less you view, the more "airy" and clean the _Passwords_ tab will feel. The more you choose, the more cluttered it will look, but it's the trade off you get for more flexibility. Go ahead and play with these options until you find the balance that is just right for you.
 
-![](../.gitbook/assets/appearance.jpg)
+![](/assets/assets%2F-LCBoecSUMMtKc_rFkkd%2F-LEIE24egjDHP7sAxWgu%2F-LEIEy0ItPuVWlqwF3bW%2Fappearance.jpg)
 
 **\(1\)** Tick this option to show the _Icons_ for entry details or not. If you turn this option on, you will be able to click on any icon to quickly copy the contents without having to open the _Entry_ window.
 
@@ -85,7 +85,7 @@ You can set the number of rows in your password list and what you want to see fo
 
 Choose what you want Passpack to do right after you sign in to make it better fit your habits and load more quickly. To set your preferences, go into your Settings &gt; Startup Options.
 
-![](../.gitbook/assets/startup.jpg)
+![](/assets/assets%2F-LCBoecSUMMtKc_rFkkd%2F-LEIE24egjDHP7sAxWgu%2F-LEIFNZo74gfGJysp5xT%2Fstartup.jpg)
 
 **\(1\)** Choose Home to go to your Home tab after signing in. Choose Passwords to view your password list instead.
 
