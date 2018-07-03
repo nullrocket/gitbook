@@ -31,7 +31,7 @@
 ## Passwords
 
 * [The Passwords Tab](passwords/the-passwords-tab.md)
-* Management
+* [Management](passwords/management.md)
 * Organization
 * Auditing
 * Tools
