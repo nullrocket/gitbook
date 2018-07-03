@@ -25,6 +25,6 @@
   * [Multifactor Authentication](account/security/multifactor-authentication.md)
   * [Disposable Logins](account/security/disposable-logins.md)
 * [Backup](account/backup.md)
-* Local Data
+* [Local Data](account/local-data.md)
 * Deletion
 
