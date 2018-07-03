@@ -18,4 +18,9 @@
 * [Settings](account/settings.md)
   * [Account Settings](account/settings/account-settings.md)
   * [Team Settings](account/settings/team-settings.md)
+* [Subscription and Billing](account/subscription-and-billing.md)
+* Security
+* Backup
+* Local Data
+* Deletion
 
