@@ -44,7 +44,13 @@
 ## Sharing
 
 * [Connections](sharing/connections.md)
+  * [The People Tab](sharing/connections/the-people-tab.md)
+  * [Connection Invites](sharing/connections/connection-invites.md)
 * [User to User Sharing](sharing/user-to-user-sharing.md)
+  * [First-Time Setup](sharing/user-to-user-sharing/first-time-setup.md)
+  * [Sharing Passwords](sharing/user-to-user-sharing/sharing-passwords.md)
+  * [Sending Passwords](sharing/user-to-user-sharing/sending-passwords.md)
+  * [Stop Sharing](sharing/user-to-user-sharing/stop-sharing.md)
 * [Teams](sharing/teams.md)
 
 ## Messages
