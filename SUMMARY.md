@@ -26,5 +26,5 @@
   * [Disposable Logins](account/security/disposable-logins.md)
 * [Backup](account/backup.md)
 * [Local Data](account/local-data.md)
-* Deletion
+* [Deletion](account/deletion.md)
 
