@@ -19,8 +19,12 @@
   * [Account Settings](account/settings/account-settings.md)
   * [Team Settings](account/settings/team-settings.md)
 * [Subscription and Billing](account/subscription-and-billing.md)
-* Security
-* Backup
+* [Security](account/security.md)
+  * [Packing Key](account/security/packing-key.md)
+  * [Lock It Up!](account/security/lock-it-up.md)
+  * [Multifactor Authentication](account/security/multifactor-authentication.md)
+  * [Disposable Logins](account/security/disposable-logins.md)
+* [Backup](account/backup.md)
 * Local Data
 * Deletion
 
