@@ -43,3 +43,14 @@
   * [Password Generator](passwords/tools/password-generator.md)
   * [Bulk Editing](passwords/tools/bulk-editing.md)
 
+## Sharing
+
+* [Connections](sharing/connections.md)
+* [User to User Sharing](sharing/user-to-user-sharing.md)
+* [Teams](sharing/teams.md)
+
+## Messages
+
+* [The Messages Tab](sharing/the-messages-tab.md)
+* [Sending](sharing/sending.md)
+
