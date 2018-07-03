@@ -36,6 +36,8 @@
   * [Favorites](passwords/organization/favorites.md)
   * [Tags](passwords/organization/tags.md)
   * [Filtering](passwords/organization/filtering.md)
-* Auditing
+* [Auditing](passwords/auditing.md)
+  * [Password Strength](passwords/auditing/password-strength.md)
+  * [History](passwords/auditing/history.md)
 * Tools
 
