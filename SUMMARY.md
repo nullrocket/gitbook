@@ -39,5 +39,7 @@
 * [Auditing](passwords/auditing.md)
   * [Password Strength](passwords/auditing/password-strength.md)
   * [History](passwords/auditing/history.md)
-* Tools
+* [Tools](passwords/tools.md)
+  * [Password Generator](passwords/tools/password-generator.md)
+  * Bulk Editing
 

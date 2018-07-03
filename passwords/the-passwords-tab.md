@@ -35,6 +35,19 @@ The following is a list of what each icon represents within your entry :
 
 When you do a quick search, if the field in your entry contains the word you searched for, the black icon will be filled in with yellow.
 
+### **Personalize Your Password List**
+
+To change what columns you see in your password list, go to **Settings &gt; Appearance**.
+
+By default, your password list will be pretty simple. In order, it contains the **Go** icon, the name of your entry \(you chose this\), the content icons, and the **favorites star icon**.
+
+* Clicking the **Go icon** will take you to the website.
+* Clicking one of of the **content icons** will copy it. In the example above, you'd click the password icon \(the little asterik\) to copy your amazon password. This is a shortcut.
+* Clicking the **star icon** would mark this entry as a favorite.
+* Clicking on the **name**, or anywhere else in the row would open the entry window where you can view or make changes.
+
+Additional columns that you could add are the **security level icon**, and the list of **tags** you've assigned to that entry.
+
 ## Search
 
 This is best when you know exactly what you're looking for. In the example below, we searched for all "Amazon" account logins.
@@ -68,8 +81,6 @@ If you accidentally deleted an entry, or made any other mistakes and your change
 Alternatively, you can undo mistakes one by one by using the leftmost arrow next to a changed entry in the password list.
 
 ## 
-
-
 
 
 
