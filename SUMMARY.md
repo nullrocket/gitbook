@@ -32,7 +32,10 @@
 
 * [The Passwords Tab](passwords/the-passwords-tab.md)
 * [Management](passwords/management.md)
-* Organization
+* [Organization](passwords/organization.md)
+  * [Favorites](passwords/organization/favorites.md)
+  * [Tags](passwords/organization/tags.md)
+  * [Filtering](passwords/organization/filtering.md)
 * Auditing
 * Tools
 
