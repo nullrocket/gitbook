@@ -1,4 +1,4 @@
-## First-Time Set Up
+# First-Time Set Up
 
 To get set up for password sharing, follow these steps:
 

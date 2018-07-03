@@ -1,6 +1,6 @@
-## Share a Password
+# Share a Password
 
-Click on an entry in your password list. This will open the Entry window. On the right-hand side, you'll see three tabs. Click **Sharing**. You should then see a list of people that you can share with. \(If the person you'd like to share with is not in the list, you may need to  follow steps 2 and 3 above\).
+Click on an entry in your password list. This will open the Entry window. On the right-hand side, you'll see three tabs. Click **Sharing**. You should then see a list of people that you can share with.
 
 To share your password entry with a person in the list, simply tick the box next to their name. Two additional options will appear.
 

@@ -1,3 +1,5 @@
+# Sending Passwords
+
 ## **Securely Send Passwords to Any Email**
 
 Password entries can be sent either to another Passpack user, or to anyone with an email address.This is perfect for sending passwords to folks that don't have a Passpack account yet. To send a single password entry, click the it in your password list to open the entry window.
