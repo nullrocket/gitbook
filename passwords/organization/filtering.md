@@ -8,9 +8,7 @@ If you frequently tag your entries, you're in luck. Just click on the "profile"?
 
 You can also use the Quick Search. Just start typing "profile"? and Passpack will narrow down the results for you.
 
-#### An Alphabetical Order List
 
-There are times when you are just browsing, or maybe you clicked on a tag that pulled up 2-3 pages of entries. Either way, to pass from page to page, just use the _next_ _page_ and _previous page_ buttons below your list.
 
-Passpack uses _alphabetical order buttons_ that show you the first three letters of the first entry on that page. It's very similar to the way things work at your local library.
+
 
