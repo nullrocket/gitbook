@@ -28,3 +28,11 @@
 * [Local Data](account/local-data.md)
 * [Deletion](account/deletion.md)
 
+## Passwords
+
+* [The Passwords Tab](passwords/the-passwords-tab.md)
+* Management
+* Organization
+* Auditing
+* Tools
+
