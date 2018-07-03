@@ -1,10 +1,10 @@
-## **Multifactor Authentication**
+# **Multifactor Authentication**
 
 _Two Factor Authentication_ is a security measure to protect against unwanted access to your account. You \(or anyone else\) can not sign into your Passpack account without it.
 
 ## **Two Factor Authentication Set Up**
 
- If you opt for the Yubikey, please make sure you have at least 2, otherwise if you loose your Yubikey, you will forever be locked out of your account.
+If you opt for the Yubikey, please make sure you have at least 2, otherwise if you loose your Yubikey, you will forever be locked out of your account.
 
 ![](/assets/assets%2F-LCBoecSUMMtKc_rFkkd%2F-LF5o1d3K2h1ttPlLvPx%2F-LF5onS4PCronlVaQJ5z%2F2factoryubikey.jpg)
 
