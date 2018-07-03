@@ -1,8 +1,10 @@
 ## **Multifactor Authentication**
 
-### **Two Factor Authentication Set Up**
+_Two Factor Authentication_ is a security measure to protect against unwanted access to your account. You \(or anyone else\) can not sign into your Passpack account without it.
 
-_Two Factor Authentication_ is a security measure to protect against unwanted access to your account. You \(or anyone else\) can not sign into your Passpack account without it. If you opt for the Yubikey, please make sure you have at least 2, otherwise if you loose your Yubikey, you will forever be locked out of your account.
+## **Two Factor Authentication Set Up**
+
+ If you opt for the Yubikey, please make sure you have at least 2, otherwise if you loose your Yubikey, you will forever be locked out of your account.
 
 ![](/assets/assets%2F-LCBoecSUMMtKc_rFkkd%2F-LF5o1d3K2h1ttPlLvPx%2F-LF5onS4PCronlVaQJ5z%2F2factoryubikey.jpg)
 
@@ -14,7 +16,7 @@ _Two Factor Authentication_ is a security measure to protect against unwanted ac
 
 Some Internet Cafès or public computers may not allow you use a USB drive for fear of keyloggers. In these cases, you will not be able to access your Passpack account from those computers.
 
-### **Authorize Your Mobile Device to Skip Two Factor Authentication**
+## **Authorize Your Mobile Device to Skip Two Factor Authentication**
 
 Passpack supports both email and Yubikey two factor authentication. On your mobile device though, there is _physically_ no place to insert your Yubikey.
 
@@ -22,13 +24,13 @@ To keep you from being locked out of your account when on the go, Passpack lets 
 
 **Your device's browser must support HTML5. If not, you can't use this one-time authorization feature. Sorry.**
 
-#### Email Method \(pretty easy\)
+#### Email Method
 
 On the screen that prompts you to insert the code sent to you by email, you'll also see a checkbox that says **Always consider this device safe. Don't ask me again.**. Check that off before pressing the **Verify**button.
 
 Complete the login with your packing Key, and you're all done. The device will remain authorized unless you explicitly unauthorize it under **Settings &gt; Two Factor Authentication**
 
-#### Yubikey Method \(a little harder\)
+#### Yubikey Method
 
 The process is a little convoluted, but only needs to be done once per device. Your main hurdle will be getting a copy of the Yubikey generated code to your mobile phone. You will need to have both your standard computer and your mobile device in front of you to complete this set up.
 
@@ -39,15 +41,6 @@ Now, on your normal computer, open your email and address a new email to yoursel
 Back on your mobile device, check your email, and copy the Yubikey code \(hint, you may have to hit reply on some Android mail clients to be able to actually copy the code, just make sure to delete the "re:" before copying\). Go back to the Passpack page in your browser, and paste the code in the field. Check the box that says **Always consider this device safe. Don't ask me again.**. Then, press the **Verify** button.
 
 Complete the login with your packing Key, and you're all done. The device will remain authorized unless you explicitly unauthorize it under **Settings &gt; Two Factor Authentication**
-
-### **Google Authenticator**
-
-### **YubiKey**
-
-#### **Support for Yubikey**
-
-1. You can use your Yubikey either as a _Two Factor Authentication_ in which case you will need your Yubikey in addition to your Passpack _Password_ and _Packing Key_. 
-2. Or you can replace your Passpack _Password_ with your Yubikey and skip straight to the _Packing Key_.  
 
 ### 
 

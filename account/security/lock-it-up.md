@@ -1,4 +1,4 @@
-## **Lock It Up!**
+# **Lock It Up!**
 
 In addition to the Auto-lock and Auto-save options that you can manage under your **Settings &gt; Packing & Saving** menu, you can also force Passpack to lock up and hide on command.
 
