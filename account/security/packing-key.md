@@ -22,5 +22,5 @@ You can change your Packing Key whenever you'd like by going to Account &gt; Cha
 
 Your _Packing Key_ must be at least 8 characters long and is also case sensitive. You can \(and should!\) use punctuation, numbers, foreign characters or even spaces. We suggest a quality rating of at least 80 \(optional\).
 
-Recovery
+
 
