@@ -41,5 +41,5 @@
   * [History](passwords/auditing/history.md)
 * [Tools](passwords/tools.md)
   * [Password Generator](passwords/tools/password-generator.md)
-  * Bulk Editing
+  * [Bulk Editing](passwords/tools/bulk-editing.md)
 
