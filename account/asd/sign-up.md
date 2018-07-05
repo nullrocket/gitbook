@@ -33,19 +33,11 @@ Your User ID must be between 2 and 32 characters long and is case sensitive.
   <!--- Start Step Body --->
   You will use your User ID to log into your Passpack account. Your User ID must be between 2 and 32 characters long and is case sensitive.
 
-  <!--- Start Tip --->
-  <div class="alert alert-tip hints-alert">
-    <div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
-    <div class="hints-container">
-      <p>
-        <!--- Start Tip Body ---------->
-        Be careful not inadvertently leave your CAPS lock (or Shift lock) on.
-        <!--- End Tip Body ------------>
-      </p>
-    </div>
-  </div>
-  <!--- End Tip --->
-<!--- End Step Body --->
+  {% hint style='tip' %}
+    Be careful not inadvertently leave your CAPS lock (or Shift lock) on.
+  {% endhint %}
+  
+  <!--- End Step Body --->
 </div>
 <!--- End Step --->
  
