@@ -32,7 +32,7 @@
 </div>
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
   <!--- Start Step Body --->
-  Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
+  Your password must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
   <!--- End Step Body --->
 </div>
 <!--- End Step --->
