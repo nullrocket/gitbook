@@ -17,7 +17,6 @@
   {% hint style='tip' %}
   Be careful not inadvertently leave your CAPS lock (or Shift lock) on.
   {% endhint %}
-  
   <!--- End Step Body --->
 </div>
 <!--- End Step --->
