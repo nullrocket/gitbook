@@ -21,16 +21,21 @@
 </div>
 <!--- End Step --->
  
-
+<!--- Start Step --->
 <div>
-<img style="vertical-align:middle" src="/assets/Step 2.png">
-<span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.25em;">Password</span>
+  <img style="vertical-align:middle" src="/assets/Step 2.png">
+  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">
+    <!--- Start Step Title --->
+    Password
+    <!--- End Step Title --->
+  </span>
 </div>
-
 <div style="margin-left: 2.25em; margin-bottom: 1em;">
-
-Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
+  <!--- Start Step Body --->
+  Your _Password_ must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
+  <!--- End Step Body --->
 </div>
+<!--- End Step --->
 
 
 <div>
