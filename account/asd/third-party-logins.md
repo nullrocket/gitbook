@@ -39,7 +39,7 @@ Passpack allows you to use an existing login from one of the supported providers
 
 #### How to Sign Up
 
-To use your Third Party Credentials, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the provider's icon on the left, then follow the instructions that will appear in the Sign In dialog to the right.
+To use your Third Party Credentials, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the provider's icon on the left, then follow the instructions that will appear in the Sign In dialog to the right. 
 
 
 
