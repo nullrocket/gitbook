@@ -1,24 +1,6 @@
 # The Sign Up Dialog
 ![](/assets/login-dialog.png)
 
-<!--- Start User ID --->
-<div>
-<img style="vertical-align:middle" src="/assets/Step 1.png">
-<span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">User ID</span>
-</div>
-<div style="margin-left: 2.25em; margin-bottom: 1em;">
-You will use your User ID to log into your Passpack account.
-Your User ID must be between 2 and 32 characters long and is case sensitive.
-<div class="alert alert-tip hints-alert">
-<div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
-<div class="hints-container">
-<p>Be careful not inadvertently leave your CAPS lock (or Shift lock) on.</p>
-</div>
-</div>
-</div>
-<!--- End User ID --->
-
-
 <!--- Start Step --->
 <div>
   <img style="vertical-align:middle" src="/assets/Step 1.png">
