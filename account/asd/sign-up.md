@@ -48,7 +48,7 @@ Your User ID must be between 2 and 32 characters long and is case sensitive.
 <!--- End Step Body --->
 </div>
 <!--- End Step --->
-
+ 
 {% hint style='info' %}
 Important info: this note needs to be highlighted
 {% endhint %}
