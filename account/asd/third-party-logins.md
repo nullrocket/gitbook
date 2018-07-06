@@ -29,13 +29,9 @@ This will not delete your Passpack account. It will simply tell Passpack, for ex
 
 Passpack allows you to use an existing login from one of the supported providers as the login for your Passpack account.
 
-<div class="alert alert-tip hints-alert">
-<div class="hints-icon"><i class="fa fa-lg fa-lightbulb-o"> <strong>Tip</strong></i></div>
-<div class="hints-container">
-<p>The standard Passpack Login is not required. However, some features do not work with Third Party Logins. For example, the <a href="">remember me feature</a> and <a href="">Disposable Logins</a> are available on standard Passpack logins only.</p>
-</div>
-</div>
-</div>
+{% hint style='danger' %}
+The standard Passpack Login is not required. However, some features do not work with Third Party Logins. For example, the <a href="">remember me feature</a> and <a href="">Disposable Logins</a> are available on standard Passpack logins only.
+{% endhint %}
 
 #### How to Sign Up
 
