@@ -85,6 +85,6 @@ Since we do not store your Packing Key, you will have to be very careful to neve
 
 {% hint style='danger' %}
 DO NOT forget your packing key</strong>. We will not be able to recover or reset your key.
-{% endhint %}
+{% endhint %} 
 
 
