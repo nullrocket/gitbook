@@ -37,24 +37,6 @@ Many of these problems may be impossible for us to fix because of browser limita
 
 The Passpack It! button depends on websites having a somewhat predictable structure to be able to detect the input fields and match up with your password for you. Unfortunatly, some websites choose to do things that are far outside the norm. We know this can be frustrating, but we will work with you to see if there is a way to make things work for your situation. Just use [this form](https://support.passpack.com/hc/en-us/requests/new) to send us a message along with the url to the offending login page and a description of the problem and we will give it a look.
 
-## When to Ask for Help**
-
-As you know, you can, and should, teach Passpack how to login to new websites with your Passpack It! button. This should work pretty often, but there are some times when it's better to ask for help. Here are some examples.
-
-### Tips to Make it Work
-
-Before you read on to the solutions to common problems, make sure have [read this article](https://support.passpack.com/hc/en-us/articles/200736584) on how to teach Passpack a website. And remember go slowly.
-
-### When You Need More Fields
-
-Some websites use a captcha, require you to check boxes, or request that you fill out more fields than just the username and password. The solution is very simple: fill out the extra fields, check boxes and captchas, BEFORE pressing your Passpack It! button. Easy as that.
-
-### When it Used to Work
-
-Sometimes, you'll just swear that you've already used your _Passpack It!_ button on a website, but when you come back to it, it asks you to teach it. No worries, chances are, you're not going crazy. Websites change from time to time, and Passpack needs to be retrained. You can use [this form](https://support.passpack.com/hc/en-us/requests/new) or the **Feedback** tab in your Passpack It! pop-up to quickly let us know. We'll usually solve the problem fairly quickly.
-
-
-
 ## **Auto-login When There Are Three Fields**
 
 Your _Passpack It!_ button can only autofill two fields for you. If you come across a login form with three fields \(for example, _Company_, _User ID_ and _Password_\), then try one of these two options.
