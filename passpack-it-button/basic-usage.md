@@ -1,10 +1,18 @@
-## **How to Login to a Website With the Passpack It! Button**
+## Basic Usage
+
+Normally, in order for your _Passpack It!_ button to work, your Passpack account must be open in a browser window or tab. If it isn't you may see the following message when you click your Passpack It! button:
+
+To use the Passpack It! button, you must connect to this website through your Passpack Password Manager.
+
+To avoid this message, make sure that you have Passpack open in a browser window or tab and are able to see a list of passwords in the Passwords tab in your Passpack account.  Remember that Passpack may [automatically lockup](https://support.passpack.com/hc/en-us/articles/200749054) when left unattended, or if you press the Lock it up! button. If Passpack is asking you for your _Packing Key_, then your account has timed out. You will need to insert your _Packing Key_ in order for your _Passpack It!_ button to work.
+
+### Login Using the Passpack It! Button
 
 Ok, so you have a list of passwords saved in Passpack and you've [installed your personal _Passpack It!_ button](https://support.passpack.com/hc/en-us/articles/200827350). Now here's what you can do:
 
-### The Tried & True Click-Through Method
+#### The Tried & True Click-Through Method
 
-> _Do this once:_
+_Do this once:_
 
 1. You login to Passpack. . _Then do this every time you want to login to a website:_ .
 2. You can click on a password in your list.
@@ -12,27 +20,20 @@ Ok, so you have a list of passwords saved in Passpack and you've [installed your
 4. Navigate to the login page.
 5. Click your _Passpack It!_ button ... and Passpack will log you in
 
-**Hint:** if you save the link to the login page in your password entry, then you can skip step 4. To avoid repeating step 1 all day long, read about the [remember me feature](https://passpackinc.zendesk.com/hc/en-us/articles/200748974-How-to-Use-Remember-Me), [auto-locking options](https://support.passpack.com/hc/en-us/articles/200691035) and - for advanced users - [check out this article](https://support.passpack.com/hc/en-us/articles/200254369).  
-\_\_
+{% hint style='tip' %}
+If you save the link to the login page in your password entry, then you can skip step 4. To avoid repeating step 1 all day long, read about the remember me feature and auto-locking options.  
+{% endhint %}
 
-### 1 Click Login While You Browse
+#### 1 Click Login While You Browse
 
-> _Do this once:_
+_Do this once:_
 
 1. You login to Passpack.
 2. You turn on 1 Click Login.
 3. You leave Passpack open in the background and browse the web at your leisure all day long. . _Then do this every time you want to login to a website:_ .
 4. When you come across a website login page, press your _Passpack It!_ button ... and Passpack will log you in
 
-**Hint:** you can [do step 2 manually](https://support.passpack.com/hc/en-us/articles/200254359), or skip it by [changing your startup settings](https://passpackinc.zendesk.com/hc/en-us/articles/200749064). Advanced users can can even skip step 3 - [check out this article](https://support.passpack.com/hc/en-us/articles/200254369).
-
-## **Must I Be Logged Into Passpack To Use My Passpack It! Button?**
-
-Normally, in order for your _Passpack It!_ button to work, your Passpack account must be open in a browser window or tab. If it isn't you may see the following message when you click your Passpack It! button:
-
-To use the Passpack It! button, you must connect to this website through your Passpack Password Manager.
-
-To avoid this message, make sure that you have Passpack open in a browser window or tab and are able to see a list of passwords in the Passwords tab in your Passpack account.  Remember that Passpack may [automatically lockup](https://support.passpack.com/hc/en-us/articles/200749054) when left unattended, or if you press the Lock it up! button. If Passpack is asking you for your _Packing Key_, then your account has timed out. You will need to insert your _Packing Key_ in order for your _Passpack It!_ button to work.
+**Hint:** you can [do step 2 manually](https://support.passpack.com/hc/en-us/articles/200254359), or skip it by [changing your startup settings](https://passpackinc.zendesk.com/hc/en-us/articles/200749064).
 
 ## **How to Teach Passpack to Login to a Website**
 
