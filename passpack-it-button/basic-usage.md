@@ -167,3 +167,11 @@ Go to the Tools Icon in the upper-right corner of the browser, select Options th
 **For Opera**  
 Go to the Opera icon in the upper-left corner of the browser, select Settings &gt; Preferences, then the "Advanced" tab. Make sure that "Accept cookies" is selected. Press OK and it's all done \(you may have to restart the browser\).
 
+## Regeneration
+
+If something is not working right with your PAsspack It! button, the first step is to regenerate it to eliminate any possibility of file corruption. 
+
+Go to the Auto-login tab inside your account, click on Install your button and then click on Regenerate Now.
+
+You must the delete your existing button, and install the new (regenerated) one.
+
