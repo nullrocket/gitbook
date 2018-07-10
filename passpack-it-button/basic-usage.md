@@ -33,7 +33,9 @@ _Do this once:_
 3. You leave Passpack open in the background and browse the web at your leisure all day long. . _Then do this every time you want to login to a website:_ .
 4. When you come across a website login page, press your _Passpack It!_ button ... and Passpack will log you in
 
-**Hint:** you can [do step 2 manually](https://support.passpack.com/hc/en-us/articles/200254359), or skip it by [changing your startup settings](https://passpackinc.zendesk.com/hc/en-us/articles/200749064).
+{% hint style='tip' %}
+You can [do step 2 manually](https://support.passpack.com/hc/en-us/articles/200254359), or skip it by [changing your startup settings](https://passpackinc.zendesk.com/hc/en-us/articles/200749064). 
+{% endhint %}
 
 ## **How to Teach Passpack to Login to a Website**
 
