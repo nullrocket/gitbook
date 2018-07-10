@@ -1,6 +1,10 @@
-1 Click login is a faster way of using your **Passpack It!** button. With 1 Click Login, you can leave Passpack open in a tab or window while you browse, then simply click your Passpack It! button when you happen upon a website that you would like to login to.
+# 1-Click login
 
-This is different from standard auto-login because you do not need to connect to the website's login form via your Passpack account.
+1-Click login is a faster way of using your **Passpack It!** button. With 1 Click Login, you can leave Passpack open in a tab or window while you browse, then simply click your Passpack It! button when you happen upon a website that you would like to login to.
+
+{% hint style='info' %}
+1-Click Login is different from standard auto-login because you do not need to connect to the website's login form via your Passpack account.
+{% endhint %}
 
 ## Enable/Disable 1-Click Login
 
