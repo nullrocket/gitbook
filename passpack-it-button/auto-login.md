@@ -21,7 +21,23 @@ Usually when you auto-login to a website, we make it so that the website doesn't
 
 {% endhint %}
 
-## **Auto-login: When to Ask for Help**
+## Limitations
+
+This can be frustrating, but there are some very tricky things that may cause the Passpack It! button to get confused. Here are some:
+
+* the login is on a different domain (ex. Flickr login on Yahoo)
+* the site uses multiple page login (ex. egg.com)
+* the site uses HTTP Basic Authentication
+* the login is in a Flash movie or Java Applet
+* the site itself has errors
+
+Many of these problems may be impossible for us to fix because of browser limitations, but you can send us a message using [this form](https://support.passpack.com/hc/en-us/requests/new) and we will try anyway.
+
+## When to Ask for Help**
+
+The Passpack It! button depends on websites having a somewhat predictable structure to be able to detect the input fields and match up with your password for you. Unfortunatly, some websites choose to do things that are far outside the norm. We know this can be frustrating, but we will work with you to see if there is a way to make things work for your situation. Just use [this form](https://support.passpack.com/hc/en-us/requests/new) to send us a message along with the url to the offending login page and a description of the problem and we will give it a look.
+
+## When to Ask for Help**
 
 As you know, you can, and should, teach Passpack how to login to new websites with your Passpack It! button. This should work pretty often, but there are some times when it's better to ask for help. Here are some examples.
 
@@ -37,31 +53,18 @@ Some websites use a captcha, require you to check boxes, or request that you fil
 
 Sometimes, you'll just swear that you've already used your _Passpack It!_ button on a website, but when you come back to it, it asks you to teach it. No worries, chances are, you're not going crazy. Websites change from time to time, and Passpack needs to be retrained. You can use [this form](https://support.passpack.com/hc/en-us/requests/new) or the **Feedback** tab in your Passpack It! pop-up to quickly let us know. We'll usually solve the problem fairly quickly.
 
-### When it Just Refuses to Work
 
-This can be frustrating, but there are some very tricky things that may cause the Passpack It! button to get confused. Here are some:
 
-1. the login is on a different domain \(ex. Flickr login on Yahoo\)
-2. the site uses multiple page login \(ex. egg.com\)
-3. the site uses HTTP Basic Authentication
-4. the login is in a Flash movie or Java Applet
-5. the site itself has errors
-
-In case \#1, we can help so you can [use this form](https://support.passpack.com/hc/en-us/requests/new) to request an alias. For all the others, sorry but your auto-login will not work. Passpack might \(big maybe\) support \#2 or \#3 in the future, but it will never support \#4 or \#5.
-
-## **How to Auto-login When There Are Three Fields**
+## **Auto-login When There Are Three Fields**
 
 Your _Passpack It!_ button can only autofill two fields for you. If you come across a login form with three fields \(for example, _Company_, _User ID_ and _Password_\), then try one of these two options.
 
-**1. Autofill + Paste**
+#### Autofill + Paste
 
 Manually type or paste in one of the fields, then you can train Passpack to auto-fill the other two for you. Keep in mind this will only work when all three fields are present on the same page.
 
-**2. Copy/Paste all Three**
+#### Copy/Paste all Three
 
 Double click on your _Passpack It!_ button. In the window that pops up, click on the copy/paste tab. If you've stored the _Company_ name in the notes section of your entry, then you can simply copy and paste all the info directly into the login form.
 
-### I Don't Want to Keep Passpack Open. Is There An Option for That?
-
-Yes, there is. Go to **Auto-login &gt; Options for power users**. Please make sure you understand [how this works, and the implications](https://support.passpack.com/hc/en-us/articles/200254369).
 
