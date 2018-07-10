@@ -72,3 +72,8 @@
 
 * [Installation](desktop/installation.md)
 
+## Troubleshooting
+
+* [Common Problems](troubleshooting/common-problems.md)
+* [Javascript Errors](troubleshooting/javascript-errors.md)
+
