@@ -45,8 +45,7 @@ First, make sure that you have [installed your _Passpack It!_ button](https://su
 
 When Passpack needs you to teach it a new website, you will see pop-up box with instructions. These instructions should be fairly straight forward - read them, press **Start Training Now** to make the pop-up box go away. Now, click on the username field, the password field and the login button \(in that order\). A dotted red border lets you know your click has been recorded.
 
-![](.gitbook/assets/autologin_training.gif)
-
+![](/assets/autologin_training.gif)
 Once you do this, you'll see an alert box that will ask you if you think it worked or not:
 
 > **If so**, press OK, the page will refresh and you can press your Passpack It! button again to login. It should work right away.
@@ -59,7 +58,7 @@ Once you do this, you'll see an alert box that will ask you if you think it work
 
 **Use the Escape Key.** If, when you click the field, the browser shows you a bunch of autofill options, then just press the **ESC** key on your keyboard and it'll go away. This won't interfere with training and you can proceed.
 
-![](.gitbook/assets/autologin_trainingesc.gif)
+![](/assets/autologin_trainingESC.gif)
 
 ### When Training Does Not Work
 
