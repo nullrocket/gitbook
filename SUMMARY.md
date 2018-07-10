@@ -60,8 +60,8 @@
 
 ## Passpack It! Button
 
-* Installation
-* Auto-login
+* [Installation](passpack-it-button/installation.md)
+* [Auto-login](passpack-it-button/auto-login.md)
 * 1-Click Login
 * Multiple Accounts
 * Lock Down
