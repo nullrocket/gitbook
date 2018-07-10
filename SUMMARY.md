@@ -68,3 +68,7 @@
 * [Multiple Accounts](passpack-it-button/multiple-accounts.md)
 * [Lock Down](passpack-it-button/lock-down.md)
 
+## Desktop
+
+* [Installation](desktop/installation.md)
+
