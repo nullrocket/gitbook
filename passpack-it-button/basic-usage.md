@@ -63,8 +63,6 @@ Once you do this, you'll see an alert box that will ask you if you think it work
  ![](/assets/autologin_trainingESC.gif)
 
 then just press the **ESC** key on your keyboard and it'll go away. This won't interfere with training and you can proceed.
-
-
 {% endhint %}
 
 
@@ -74,37 +72,26 @@ The internet is a varied an complex place. The Passpack It! button does its abso
 
 **NEW** For even faster service, double click on your _Passpack It!_ button. this will bring up a pop-up box. Click on the Feedback tab, and use the form to immediately submit the website to our attention.
 
+{% hint style='danger' %}
 _There is no need to send any login information - so please don't._
+{% endhint %}
+
 
 ## **How to Report Broken Websites**
 
-Did you know you can **double click your** _**Passpack It!**_ **button**? Yes you can! It's the fastest way to report a broken website link to us. Just double click your button and a small popup window will appear. Go to the**Feedback** section, and let us know what's wrong.
+Did you know you can **double click your** _**Passpack It!**_ **button**? Yes you can! It's the fastest way to report a broken website link to us. Just double click your button and a small popup window will appear. Go to the **Feedback** section, and let us know what's wrong.
 
-![](.gitbook/assets/passpackit-feedback.jpg)
+![](/assets/passpackit-feedback.jpg)
 
 The broken website link will be automatically queued in our system. We go through these link manually, and fix them one by one. Once a link hat you've reported has been fixed, you'll receive a short automated email to let you know. If, for some reason it's still not working for you, then just reply to that email and you'll get personalized one-on-one support.
 
-### How Long Does it Take to Get Fixed?
-
-That depends. Some sites require just a quick fix on our part and can generally get done in a couple of days. Others may be much more complex, must be escalated directly to the development team, and will take longer depending on their work load.
+ Some sites require just a quick fix on our part and can generally get done in a couple of days. Others may be much more complex, must be escalated directly to the development team, and will take longer depending on their work load.
 
 **Should there be a backlog, we try and give priority to links submitted by our premium users.**
 
-### What If I Don't Get an Email?
-
+{% hint style='tip' %}
 If you do not receive an email, then you may not have set one up and confirmed it in your account. [Here's how to do that](https://support.passpack.com/hc/en-us/articles/200698505-How-to-Confirm-and-Manage-Your-Email).
-
-Also, if the link is beyond repair, we'll just mark it off as such and won't bother you with an email. You'll still be able to login to that website, but you may need to copy/paste the password from the \_Passpack It!\_popup, into the login form manually.
-
-### It Seems Like ALL Sites are Broken...
-
-If it feels like "it just doesn't work" then you'll be best served by contacting us for personal support. Thousands of users login to thousands websites every day with their _Passpack It!_ buttons. If all the sites broke at once... we'd know \[grin\]. Chances are there's something that isn't set up just quite right. Check these things first:
-
-1. [The button is correctly installed](https://support.passpack.com/hc/en-us/articles/200827350).
-2. [That you are using it correctly](https://support.passpack.com/hc/en-us/articles/200736584).
-3. You have left Passpack open in the background while you use your button \([how to get around this](https://support.passpack.com/hc/en-us/articles/200254369)\).
-
-Still not working? [No worries, let us know what's not working, and we'll help you out](https://support.passpack.com/hc/en-us/requests/new).
+{% endhint %}
 
 ## **Auto-login, 1 Click Login and Passpack It! -- Help?**
 
