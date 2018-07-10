@@ -58,3 +58,9 @@ Manually type or paste in one of the fields, then you can train Passpack to auto
 
 Double click on your _Passpack It!_ button. In the window that pops up, click on the copy/paste tab. If you've stored the _Company_ name in the notes section of your entry, then you can simply copy and paste all the info directly into the login form.
 
+
+
+### I Don't Want to Keep Passpack Open. Is There An Option for That?
+
+Yes, there is. Go to **Auto-login &gt; Options for power users**. Please make sure you understand [how this works, and the implications](https://support.passpack.com/hc/en-us/articles/200254369).
+

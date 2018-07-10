@@ -61,9 +61,10 @@
 ## Passpack It! Button
 
 * [Installation](passpack-it-button/installation.md)
+* [Basic Usage](passpack-it-button/basic-usage.md)
 * [Auto-login](passpack-it-button/auto-login.md)
-* 1-Click Login
-* Multiple Accounts
-* Lock Down
-* Troubleshooting
+* [1-Click Login](passpack-it-button/1-click-login.md)
+* [Multiple Accounts](passpack-it-button/multiple-accounts.md)
+* [Lock Down](passpack-it-button/lock-down.md)
+* [Troubleshooting](passpack-it-button/troubleshooting.md)
 
