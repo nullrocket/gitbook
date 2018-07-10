@@ -46,19 +46,27 @@ First, make sure that you have [installed your _Passpack It!_ button](https://su
 When Passpack needs you to teach it a new website, you will see pop-up box with instructions. These instructions should be fairly straight forward - read them, press **Start Training Now** to make the pop-up box go away. Now, click on the username field, the password field and the login button \(in that order\). A dotted red border lets you know your click has been recorded.
 
 ![](/assets/autologin_training.gif)
+
+{% hint style='tip' %}
+**Click slowly.** Give Passpack some time between clicks to register what is happening. Wait for the red border to appear. Usually a deep breath between clicks will work  and you'll be more relaxed too \[smile\]. If there is no red border after a deep breath, then try clicking it again \(just once, don't go wild\).
+{% endhint %}
+
 Once you do this, you'll see an alert box that will ask you if you think it worked or not:
 
 > **If so**, press OK, the page will refresh and you can press your Passpack It! button again to login. It should work right away.
 >
 > **If not**, or you're not sure, just press cancel and no harm done \(scroll down for instructions when it seems to be broken\).
 
-### Some Tips
+{% hint style='tip' %}
+**Use the Escape Key.** If, when you click the field, the browser shows you a bunch of autofill options like this:
 
-**Click slowly.** Give Passpack some time between clicks to register what is happening. Wait for the red border to appear. Usually a deep breath between clicks will work  and you'll be more relaxed too \[smile\]. If there is no red border after a deep breath, then try clicking it again \(just once, don't go wild\).
+ ![](/assets/autologin_trainingESC.gif)
 
-**Use the Escape Key.** If, when you click the field, the browser shows you a bunch of autofill options, then just press the **ESC** key on your keyboard and it'll go away. This won't interfere with training and you can proceed.
+then just press the **ESC** key on your keyboard and it'll go away. This won't interfere with training and you can proceed.
 
-![](/assets/autologin_trainingESC.gif)
+
+{% endhint %}
+
 
 ### When Training Does Not Work
 
