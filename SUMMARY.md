@@ -58,3 +58,12 @@
 * [The Messages Tab](sharing/the-messages-tab.md)
 * [Sending](sharing/sending.md)
 
+## Passpack It! Button
+
+* Installation
+* Auto-login
+* 1-Click Login
+* Multiple Accounts
+* Lock Down
+* Troubleshooting
+
