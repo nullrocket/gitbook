@@ -6,7 +6,7 @@ To use the Passpack It! button, you must connect to this website through your Pa
 
 To avoid this message, make sure that you have Passpack open in a browser window or tab and are able to see a list of passwords in the Passwords tab in your Passpack account.  Remember that Passpack may [automatically lockup](https://support.passpack.com/hc/en-us/articles/200749054) when left unattended, or if you press the Lock it up! button. If Passpack is asking you for your _Packing Key_, then your account has timed out. You will need to insert your _Packing Key_ in order for your _Passpack It!_ button to work.
 
-### Login Using the Passpack It! Button
+## Login Using the Passpack It! Button
 
 Ok, so you have a list of passwords saved in Passpack and you've [installed your personal _Passpack It!_ button](https://support.passpack.com/hc/en-us/articles/200827350). Now here's what you can do:
 
