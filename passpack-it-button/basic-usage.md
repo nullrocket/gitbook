@@ -37,7 +37,7 @@ _Do this once:_
 You can [do step 2 manually](https://support.passpack.com/hc/en-us/articles/200254359), or skip it by [changing your startup settings](https://passpackinc.zendesk.com/hc/en-us/articles/200749064). 
 {% endhint %}
 
-## **How to Teach Passpack to Login to a Website**
+## Teaching Passpack to Login to New Websites
 
 Your _Passpack It!_ button can only log you into websites that it's learned already. Teaching a new website is optional, but it's also fairly easy. Here's how to do it.
 
