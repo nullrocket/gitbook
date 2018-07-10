@@ -16,6 +16,7 @@
 * [Settings](account/settings.md)
   * [Account Settings](account/settings/account-settings.md)
   * [Team Settings](account/settings/team-settings.md)
+  * [Startup Options](account/settings/startup-options.md)
 * [Subscription and Billing](account/subscription-and-billing.md)
 * [Security](account/security.md)
   * [Packing Key](account/security/packing-key.md)

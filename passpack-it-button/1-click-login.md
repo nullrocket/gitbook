@@ -2,9 +2,7 @@
 
 This is different from standard auto-login because you do not need to connect to the website's login form via your Passpack account.
 
-## **How to Turn 1 Click Login On or Off**
-
-Note: There are two ways to auto-login: standard, and 1 Click Login. [Read more on what's the difference.](https://support.passpack.com/hc/en-us/articles/200254469)
+## Enable/Disable 1-Click Login
 
 To get your _Passpack It!_ button to use 1 Click Login, you must first turn it on from within your account. Then you can browse the internet in a different window \(or tab\) for as long as you like. When you want to login to a website, just click your _Passpack It!_ button.
 
@@ -12,7 +10,9 @@ To get your _Passpack It!_ button to use 1 Click Login, you must first turn it o
 
 You can do this one of two ways: either by clicking the button in the upper right hand corner of the pane that says Turn On 1 Click Login or going to the Auto-login tab and click Turn it On.
 
-You can also elect to have 1 Click Login automatically turned on for you when you sign into your account. Go to Settings &gt; Startup Options to set this up \([instruction here](https://support.passpack.com/hc/en-us/articles/200749064)\).
+{% hint style='tip' %}
+You can set 1-Click Login to be on by default by setting it in your [startup options](/account/settings/startup-options.md).
+{% endhint %}
 
 ### How To Turn Off 1 Click Login
 
@@ -24,9 +24,9 @@ There are five ways to turn off 1 Click Login:
 4. From any website, double-click your Passpack It! button. Click **turn it off** in the bottom-right corner of the pop-up.
 5. Logout or close your browser.
 
+{% hint style='tip' %}
 After you have turned off 1 Click Login, you may still use your Passpack It! button, but you must click through to websites from your password list.
-
-
+{% endhint %}
 
 ## **Keeping 1 Click Login On Even If You Lock Up or Close Your Tab**
 
