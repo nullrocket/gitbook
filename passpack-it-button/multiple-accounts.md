@@ -1,4 +1,4 @@
-## **Same Domain, Multiple Logins with 1 Click Login**
+# Multiple Logins
 
 Passpack's 1 Click Login can handle multiple logins on the same website. Press your \_Passpack It!\_button as you normally would and if there is more than one entry that you need to choose from, you'll see a popup like the one below.
 
