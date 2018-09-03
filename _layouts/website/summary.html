@@ -30,14 +30,7 @@ xxxxxxxxxxxxxxxx
 
 <ul class="summary">
     {% set _divider = false %}
-    {% if config.links.sidebar  %}
-    {% for linkTitle, link in config.links.sidebar  %}
-        {% set _divider = true %}
-        <li>
-          sssssss  <a href="{{ link }}" target="_blank" class="custom-link">{{ linkTitle }}</a>
-        </li>
-    {% endfor %}
-    {% endif %}
+   
 
     {% if _divider %}
     <li class="divider"></li>
