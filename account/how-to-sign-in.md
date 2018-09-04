@@ -11,7 +11,7 @@
 
 ##### **It tells me my User ID and Password are wrong.**
 
-You may be mistyping one or both of them. They are case sensitive, so upper and lower case letters make a difference. For example: _Bob_, _bob_, _BOB_ and _bOb_ are considered completely different User ID's. You can recover \(and double check\) a User ID, or reset a forgotten password using this [self-service form](http://www.passpack.com/reset).
+You may be mistyping one or both of them. They are case sensitive, so upper and lower case letters make a difference. For example: _Bob_, _bob_, _BOB_ and _bOb_ are considered completely different User ID's. You can recover \(and double check\) a User ID, or reset a forgotten password using this [self-service form](https://www.passpack.com/reset).
 
 ##### I don't get any error message, but when I press the Sign in button, nothing happens.
 
