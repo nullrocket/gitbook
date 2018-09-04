@@ -16,7 +16,7 @@
   * [Lock It Up!](account/security/lock-it-up.md)
   * [Troubleshooting](account/troubleshooting.md)
 * [Subscription and Billing](account/subscription-and-billing.md)
-* [Disposable Logins](account/security/disposable-logins.md)
+* [Disposable Logins](account/disposable-logins.md)
 * [Backup](account/backup.md)
 * [Local Data](account/local-data.md)
 * [Deletion](account/deletion.md)
