@@ -12,7 +12,7 @@
   * [Third Party Logins](account/sign-in/third-party-logins.md)
   * [Welcome Message](account/welcome-message.md)
   * [On Screen Keyboard](account/on-screen-keyboard.md)
-  * [Password Reset & User ID Recovery](account/recovery.md)
+  * [Password Reset & User ID Recovery](account/sign-in/recovery.md)
   * [Packing Key](account/security/packing-key.md)
   * [Multifactor Authentication](account/security/multifactor-authentication.md)
   * [Lock It Up!](account/security/lock-it-up.md)
