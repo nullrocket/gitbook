@@ -1,5 +1,3 @@
-# Sign In
-
 ## How to sign into Passpack?
 
 1. Visit [https://www.passpack.com/online](https://www.passpack.com/online/)
