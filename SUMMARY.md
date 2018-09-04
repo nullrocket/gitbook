@@ -37,6 +37,7 @@
 * [Tools](passwords/tools.md)
   * [Password Generator](passwords/tools/password-generator.md)
   * [Bulk Editing](passwords/tools/bulk-editing.md)
+* [Basic HTTP Authentication](passwords/basic-http-authentication.md)
 
 ## Sharing
 
