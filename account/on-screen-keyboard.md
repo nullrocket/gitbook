@@ -1,12 +1,12 @@
-To help fight against malicious keylogging software, Passpack come equipped with a virtual on-screen keyboard.
- 
-**To make sure the on-screen keyboard doesn't slow down the sign in process for those who aren't interested, we've loaded it into a separate library. To use the keyboards, just click the Show virtual keyboardlink anywhere on the sign in or Packing Key screen.**
+# Virtual Keyboard
 
-Once you do that, you'll automatically see the keyboard icon ![](https://support.passpack.com/hc/en-us/article_attachments/200181254/virtual-keyboard-icon.png) anywhere in Passpack that requires typing your password or Packing Key. Click the icon to pull up the keyboard.
+To help fight against malicious keylogging software, Passpack utilizes a virtual on-screen keyboard.
+ 
+**To use the virutal keyboard, click the Show virtual keyboard icon ![](https://support.passpack.com/hc/en-us/article_attachments/200181254/virtual-keyboard-icon.png) anywhere on the Sign in or Packing Key screen.**
+
+After clicking on the keyboard during sign in you'll automatically see the keyboard icon ![](https://support.passpack.com/hc/en-us/article_attachments/200181254/virtual-keyboard-icon.png) anywhere in Passpack that requires typing your password or Packing Key. Click the icon to display the keyboard.
 
 #### Pros & Cons
-
-Just for good measure, here's the pros and cons of javascript keyboards for fighting keyloggers.
 
 **Virtual keyboard pros:
 **
