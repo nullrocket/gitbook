@@ -4,46 +4,15 @@
 2. **Password**
 Your password must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
 3. **Email Address**
-&nbsp;&nbsp;&nbsp;&nbsp;If you want to do something fancy with your list
-4. 
-<!--- Start Step --->
-<div>
-  <img style="vertical-align:middle" src="/assets/Step 1.png">
- 
-  
-  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">
-    <!-- Start Step Title ---------->
-    User ID
-    <!-- End Step Title ------------>
-  </span>
-</div>
-aasdf
-<div style="margin-left: 2.25em; margin-bottom: 1em;">
-  <!--- Start Step Body --->
-  You will use your User ID to log into your Passpack account. Your User ID must be between 2 and 32 characters long and is case sensitive.
+You can choose whether or not you want to give Passpack your email address, however we highly suggest you do as it is necessary in order for us to provide you with account recovery options and account notifications. Don't worry, we will not send you spam or sell your information to a third party.
 
-  {% hint style='tip' %}
-  Be careful not inadvertently leave your CAPS lock (or Shift lock) on.
-  {% endhint %}
-  <!--- End Step Body --->
-</div>
-<!--- End Step --->
- 
-<!--- Start Step --->
-<div>
-  <img style="vertical-align:middle" src="/assets/Step 2.png">
-  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">
-    <!--- Start Step Title --->
-    Password
-    <!--- End Step Title --->
-  </span>
-</div>
-<div style="margin-left: 2.25em; margin-bottom: 1em;">
-  <!--- Start Step Body --->
-  Your password must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
-  <!--- End Step Body --->
-</div>
-<!--- End Step --->
+
+If you do not provide an email address, we will not be able to help you reset your password.
+
+4. **User Agreement & Privacy Policy
+In order to use Passpack you will need to read and Accept the User Agreement and Privacy Policy . These two documents outline what you can expect from us and how your data will be handled.
+
+
 
 
 <!--- Start Step --->
