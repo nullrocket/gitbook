@@ -12,25 +12,6 @@ In order to use Passpack you will need to read and Accept the User Agreement and
 
 
 
-<!--- Start Step --->
-<div>
-  <img style="vertical-align:middle" src="/assets/Step 3.png">
-  <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">
-    <!--- Start Step Title --->
-    Email Address
-    <!--- End Step Title --->
-  </span>
-</div>
-<div style="margin-left: 2.25em; margin-bottom: 1em;">
-  <!--- Start Step Body --->
-  You can choose whether or not you want to give Passpack your email address, however we highly suggest you do as it is necessary in order for us to provide you with account recovery options and account notifications. Don't worry, we will not send you spam or sell your information to a third party.
-  
-  {% hint style='danger' %}
-  If you do not provide an email address, we will not be able to help you reset your password.
-  {% endhint %}
-  <!--- End Step Body --->
-</div>
-<!--- End Step --->
 
 
 
