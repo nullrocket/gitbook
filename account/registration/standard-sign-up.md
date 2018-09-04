@@ -13,12 +13,3 @@ In order to use Passpack you will need to read and Accept the User Agreement and
 
 
 
-
-
-
-####Print Yourself a Reminder
-
-If you choose to, you can print out all three of your login credentials once you've entered your account. Store your printed login information in a VERY safe place, like a lock box. If you forget your Password, then we can reset that for you as long as you've provided an email. However, we can NOT recover or reset your Packing Key - do not forget your Packing Key.
-
-
-
