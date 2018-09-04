@@ -1,8 +1,9 @@
-#Sign up
+#Registration
 Passpack accounts are free. To get your personal Passpack account, go to the Passpack homepage and click on "Sign Up for an Account". 
 
 Registration is fast and only requires you to provide a few pieces of information.
 
+###Standard Login
 * **User ID**<br/>You will choose your own User ID. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a User ID.
 
   Your User ID must be at least 3 characters longs and it is case sensitive. So consider that as you type. Be careful not to have your CAPS lock (or Shift lock) on.
@@ -22,12 +23,9 @@ Registration is fast and only requires you to provide a few pieces of informatio
   It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
 
 
-####Use Passpack Without Registering
+###Third party login
 
-If you have an OpenID, a Gmail, a Hotmail, Yahoo, Facebook, FriendFeed or Twitter account -- then you already have a Passpack account waiting for you - no registration needed.
+If you have an OpenID, a Gmail, a Hotmail, Yahoo, Facebook, FriendFeed or Twitter account you can login to Passpack with one of these accounts. For more information, search on either "Third Party Authentication" or the name of the service you are interested in using (ex. Gmail).
 
-You simply login to Passpack with one of these accounts, then choose a Packing Key and you're done. For more information, search on either "Third Party Authentication" or the name of the service you are interested in using (ex. Gmail).
-Print Yourself a Reminder
 
-If you choose to, you can print out all three of your login credentials once you've entered your account. Store your printed login information in a VERY safe place, like a lock box. If you forget yourPassword, then we can reset that for you as long as you've provided an email. However, we can NOT recover or reset your Packing Key - do not forget your Packing Key.
 

@@ -37,3 +37,9 @@ Since we do not store your Packing Key, you will have to be very careful to neve
 DO NOT forget your packing key. We will not be able to recover or reset your key.
 {% endhint %}
 
+####Print Yourself a Reminder
+
+If you choose to, you can print out all three of your login credentials once you've entered your account. Store your printed login information in a VERY safe place, like a lock box. If you forget your Password, then we can reset that for you as long as you've provided an email. However, we can NOT recover or reset your Packing Key - do not forget your Packing Key.
+
+
+
