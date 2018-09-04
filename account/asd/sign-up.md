@@ -6,7 +6,7 @@ Your password must be at least 6 characters long and is also case sensitive. You
 3. **Email Address**
 You can choose whether or not you want to give Passpack your email address, however we highly suggest you do as it is necessary in order for us to provide you with account recovery options and account notifications. Don't worry, we will not send you spam or sell your information to a third party.
 If you do not provide an email address, we will not be able to help you reset your password.
-4. **User Agreement & Privacy Policy
+4. **User Agreement & Privacy Policy**
 In order to use Passpack you will need to read and Accept the User Agreement and Privacy Policy . These two documents outline what you can expect from us and how your data will be handled.
 
 

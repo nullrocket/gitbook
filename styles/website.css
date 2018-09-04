@@ -13,3 +13,10 @@
     list-style: none;
     padding-left: 24px;
 }
+
+.markdown-section li {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    font-size: inherit;
+    margin-bottom: 12px;
+}
