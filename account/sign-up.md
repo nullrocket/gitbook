@@ -1,39 +1,31 @@
-# The Sign Up Dialog
-![](/assets/login-dialog.png)
-1. **User ID** You will use your User ID to log into your Passpack account. Your User ID must be between 2 and 32 characters long and is case sensitive. 
-2. **Password**
-Your password must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. Using a longer and more complex password will make your account more secure.
-3. **Email Address**
-You can choose whether or not you want to give Passpack your email address, however we highly suggest you do as it is necessary in order for us to provide you with account recovery options and account notifications. Don't worry, we will not send you spam or sell your information to a third party.
-If you do not provide an email address, we will not be able to help you reset your password.
-4. **User Agreement & Privacy Policy**
-In order to use Passpack you will need to read and Accept the User Agreement and Privacy Policy . These two documents outline what you can expect from us and how your data will be handled.
+Passpack accounts are free. Once you have signed up for an account, you will be able to access your account via the internet from any computer, and you are not required to install any software.
 
-## Signing Up with Third Party Credentials
+To get your personal Passpack account, go to the Passpack homepage and click on "Sign Up for an Account". Registration is fast. You will simply need to choose three pieces of information that will make up your Passpack account. That is all you'll need to know to login to Passpack from any computer.
+1. User ID
 
-Passpack allows you to use an existing login from one of the supported providers as the login for your Passpack account.
+You will choose your own User ID. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a User ID.
 
-The standard Passpack Login is not required. However, some features do not work with Third Party Logins. For example, the remember me feature and Disposable Loginsare available on standard Passpack logins only.
+Your User ID must be at least 3 characters longs and it is case sensitive. So consider that as you type. Be careful not to have your CAPS lock (or Shift lock) on.
+2. Password
 
-To use your Third Party Credentials, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the provider's icon on the left, then follow the instructions that will appear in the Sign In dialog to the right. 
+You will also choose your own Password. This is our way of saying "password" or "pass phrase". We simply use a the shortened word. This way, when reading instructions in the Passpack Help Center, you will be able to tell the difference between the passwords you store in your Passpack account (called "passwords"), and the one you need to login to your Passpack account (the "Password").
 
+Your Password must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. You can also watch the quality rating as you type to see how successful you are, we suggest a quality rating of at least 64 (optional).
+3. Packing Key
 
+Last step, you will choose your secret Packing Key. Choosing your Packing Key is easy, it's just a regular password, that Passpack uses in a special way to keep your account safe.
 
+Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
+Additional Options
+Email
 
+You can choose whether or not you want to give Passpack your email address. It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
+Use Passpack Without Registering
 
+If you have an OpenID, a Gmail, a Hotmail, Yahoo, Facebook, FriendFeed or Twitter account -- then you already have a Passpack account waiting for you - no registration needed.
 
-# Packing Key
+You simply login to Passpack with one of these accounts, then choose a Packing Key and you're done. For more information, search on either "Third Party Authentication" or the name of the service you are interested in using (ex. Gmail).
+Print Yourself a Reminder
 
-Your packing key is arguably the most important part of securing your account. While your Passpack account passwords grants you access to your account, the Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
-
-{% hint style='tip' %}
-You want your Packing Key to be as long and strong as possible. The easiest way to do that is to think of a sentence that only means something to you. 
-{% endhint %}
-
-
-Since we do not store your Packing Key, you will have to be very careful to never forget it. We will not be able to recover or reset your key. This probably sounds pretty scary, but it is the safest option.
-
-{% hint style='danger' %}
-DO NOT forget your packing key. We will not be able to recover or reset your key.
-{% endhint %}
+If you choose to, you can print out all three of your login credentials once you've entered your account. Store your printed login information in a VERY safe place, like a lock box. If you forget yourPassword, then we can reset that for you as long as you've provided an email. However, we can NOT recover or reset your Packing Key - do not forget your Packing Key.
 
