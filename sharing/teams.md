@@ -2,17 +2,17 @@
 
 ## **Add & Manage User Groups**
 
-When managing shared password entries with multiple users, you may choose to use the _Groups_ feature to simplify your workflow. You can choose to share password entries with a group and all users who have been added to it, will instantly receive access. This saves time when sharing passwords with multiple people from the same team or department.
+When managing shared password entries with multiple users, you may choose to use the _Groups_ feature to simplify your workflow. You can choose to share password entries with a group and all users who have been added to it, will instantly receive access. This saves time when sharing passwords with multiple people from the same team or department.  
 
-![](/assets/assets%2F-LCBoecSUMMtKc_rFkkd%2F-LFFXXHBMLPcJ9WWrbFl%2F-LFF__crNalthgUADgYN%2Fgroupmanage.jpg)
+![](../.gitbook/assets/groupmanage.jpg)
 
 **\(1\)** To add a new Group, or to manage your existing ones, click the **Manage Groups** link in your **People** tab. This will open a popup window similar to the one shown above.
 
 **\(2\)** List of existing Groups. Use the arrow next to the name to see all the shared users assigned to that Group. If the arrow does not appear, the Group is empty.
 
-**\(3\)** Use these controls to modify the name of the Group, or to delete it. Any entries that have been shared with that Group, will be unshared from all users assigned to the deleted Group \(the entries will disappear from their accounts\). One exception would be in the event a user belongs to a different group which also has access to the same entries.
+**\(3\)** Use these controls to modify the name of the Group, or to delete it. Any entries that have been shared with that Group, will be unshared from all users assigned to the deleted Group \(the entries will disappear from their accounts\). One exception would be in the event a user belongs to a different group which also has access to the same entries. 
 
-**\(4\)** Click **Create a new group** and you will be able to add a new group to the list.
+**\(4\)** Click **Create a new group** and you will be able to add a new group to the list. 
 
 **\(5\)** Click **OK** when you're done to apply all your changes. If you have deleted any Groups with users or entries in it, you may have to wait a moment while Passpack propagates the changes you've made. Please remember Passpack uses secure encryption, so it may take a few moments.
 
@@ -23,7 +23,7 @@ By default, all of your Passpack entries are created using the medium security l
 1. Click an entry to open it. On the right-hand side, next to the **Notes** tab, there is a small **Options** tab. Click the **Options** tab and change the security setting. Press **Ok** when you have finished.  
 2. Click on the **lock icon** in your password list. The lock icon is not visible by default. If you will be making frequent changes to your security levels, you can change this default setting under **Settings &gt; Appearance**.
 
-### What Do the Different Security Levels Mean?
+### What Do the Different Security Levels Mean? 
 
 In more technical terms, the lock represents your choice of encryption. You can choose a Single Lock, aDouble Lock or a Triple Lock.
 
@@ -41,7 +41,7 @@ In more technical terms, the lock represents your choice of encryption. You can 
 
 ### How To See Only Entries With a Certain Security Level
 
-Click the **show more** link in the bottom right corner of the **Quick Filters** pane. You can expand the **Security Level** item to see the three security levels available. Clicking any one of these will filter your list to view only those with the secirity level you have chosen.
+Click the **show more** link in the bottom right corner of the **Quick Filters** pane. You can expand the **Security Level** item to see the three security levels available. Clicking any one of these will filter your list to view only those with the secirity level you have chosen. 
 
 ### Making Passpack Faster with Security Levels
 
@@ -49,9 +49,9 @@ If you have a very large account \(with 50 entries or more\), you may start to n
 
 ## **How Do I Transfer Ownership of a Password?**
 
-Yes! This is generally useful when someone on your team needs to create password entries, then offer ownership of those entries back to the administrator of the main account. Normally, whoever creates the entry is considered the owner. So we call this feature - you guessed it - _transfer of ownership_.
+Yes! This is generally useful when someone on your team needs to create password entries, then offer ownership of those entries back to the administrator of the main account. Normally, whoever creates the entry is considered the owner. So we call this feature - you guessed it - _transfer of ownership_. 
 
-To transfer ownership of a password entry that you have created to someone else, you need to:
+To transfer ownership of a password entry that you have created to someone else, you need to: 
 
 1. Make sure that you have already shared the entry with that person. [Here's how to do this](https://support.passpack.com/hc/en-us/articles/200673275-How-to-Share-a-Password-with-Someone).
 2. In your **Passwords** tab, click on the **Bulk edit your entries** link \(it's just under the tab itself\)
@@ -63,7 +63,7 @@ To transfer ownership of a password entry that you have created to someone else,
 
 If you _did not_ create the original password entry, you'll need to ask the person who did to go through the steps above.
 
-### How to Accept Ownership of an Entry
+### How to Accept Ownership of an Entry 
 
 1. In your **Passwords** tab, click on the **Bulk edit your entries** link \(it's just under the tab itself\)
 2. Click on **Pending entries** in the Quick filters panel to your left to see items awaiting your acceptance.
@@ -73,7 +73,7 @@ If you _did not_ create the original password entry, you'll need to ask the pers
 
 **Why is it only available under Bulk Edit?**
 
-It's a fairly advanced feature and wanted to keep it off the main interface.
+It's a fairly advanced feature and wanted to keep it off the main interface. 
 
 ## **What Happens to Shared Passwords When an Account is Deleted?**
 
@@ -85,14 +85,14 @@ Also, your nickname will no longer appear in anyone else's People tab, because t
 
 If you have shared certain entries with multiple groups _and_ the person was assigned to both groups, then they will continue to see all the passwords assigned to the second group. Below is an example.
 
-Bob is assigned to the groups  "**Marketing**" and "**Sales**" which each have the following entries shared with them:
+Bob is assigned to the groups  "**Marketing**" and "**Sales**" which each have the following entries shared with them: 
 
-| **Marketing** | **Sales** |
-| :--- | :--- |
-| CRM admin | Commissions |
-| Surveys | Brochures |
-| Basecamp |  |
-| Brochures |  |
+|  **Marketing** |  **Sales** |
+| --- | --- | --- | --- | --- |
+|  CRM admin |  Commissions |
+|  Surveys |  Brochures |
+|  Basecamp |   |
+|  Brochures |   |
 
 Bob therefore has access to 5 accounts. You'll notice that the account "_Brochures_" has been shared with both groups. If you remove Bob from the group **Marketing**, but leave him in the group **Sales**, he will still have access to 2 accounts: _Commissions_ and _Brochures_. So even though he was removed from the group **Marketing**, he still maintains access to any password entries \(ex. _Brochures_\) that are shared with any other groups he belongs to.
 
