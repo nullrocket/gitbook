@@ -9,3 +9,7 @@
     color: #222;
     font-weight: bold;
 }
+.book-summary ul.summary li {
+    list-style: none;
+    padding-left: 24px;
+}
