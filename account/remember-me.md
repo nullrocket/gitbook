@@ -1,14 +1,15 @@
 # Remember Me
 
-# How to use remember me?
+## How to use remember me
 
-If you check off the Remember me for one week checkbox when signing in, Passpack will do just that. This will only work on one computer at a time, and you must first set up a _Welcome Message_. Here are the restrictions:
+Check the Remember me for one week checkbox when signing in. This will only work on one computer at a time, and you must first set up a [**Welcome Message**](/account/welcome-message.md). 
 
-1. Your Welcome Message must be active.
-2. You can not skip the Packing Key. You'll always have to type that in.
-3. You will be remembered on 1 computer at a time.
-4. You will be remembered for 1 week.
-5. You must accept a cookie.
+In order for the remember me feature to work
+
+* Your Welcome Message must be active.
+* You will be remembered on 1 computer at a time.
+* You will be remembered for 1 week.
+* You must accept a cookie.
 
 #### Why Only 1 Week?
 
