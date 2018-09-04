@@ -25,17 +25,7 @@ To manage your Third Party Logins, go to Account &gt; Associate Another Login fr
 
 This will not delete your Passpack account. It will simply tell Passpack, for example, "I no longer want to use my Facebook account to sign into Passpack."
 
-## Signing Up with Third Party Credentials
 
-Passpack allows you to use an existing login from one of the supported providers as the login for your Passpack account.
-
-{% hint style='tip' %}
-The standard Passpack Login is not required. However, some features do not work with Third Party Logins. For example, the <a href="">remember me feature</a> and <a href="">Disposable Logins</a> are available on standard Passpack logins only.
-{% endhint %}
-
-#### How to Sign Up
-
-To use your Third Party Credentials, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the provider's icon on the left, then follow the instructions that will appear in the Sign In dialog to the right. 
 
 
 
