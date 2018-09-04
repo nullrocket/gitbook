@@ -3,7 +3,7 @@ Passpack accounts are free. To get your personal Passpack account, go to the Pas
 
 Registration is fast and only requires you to provide a few pieces of information.
 
-###Standard Login
+###[Standard Registration](/account/registration/standard-sign-up.md)
 * **User ID**<br/>You will choose your own User ID. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a User ID.
 
   Your User ID must be at least 3 characters longs and it is case sensitive. So consider that as you type. Be careful not to have your CAPS lock (or Shift lock) on.
@@ -17,15 +17,12 @@ Registration is fast and only requires you to provide a few pieces of informatio
   Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
 
 
-####Additional Options
-
 * **Email**<br/>You can choose whether or not you want to give Passpack your email address. 
   It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
 
 
-###Third party login
+###[Third Party / Social Login Registration](/account/registration/third-party-social-logins.md)
 
-If you have an OpenID, a Gmail, a Hotmail, Yahoo, Facebook, FriendFeed or Twitter account you can login to Passpack with one of these accounts. For more information, search on either "Third Party Authentication" or the name of the service you are interested in using (ex. Gmail).
-
+If you have an OpenID, a Gmail, a Hotmail, Yahoo, Facebook, FriendFeed or Twitter account you can login to Passpack with one of these accounts.
 
 

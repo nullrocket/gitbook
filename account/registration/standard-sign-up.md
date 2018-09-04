@@ -1,4 +1,4 @@
-# Standard Sign Up
+# Standard Registration Dialog
 ![](/assets/login-dialog.png)
 1. **User ID** You will use your User ID to log into your Passpack account. Your User ID must be between 2 and 32 characters long and is case sensitive. 
 2. **Password**
@@ -9,13 +9,7 @@ If you do not provide an email address, we will not be able to help you reset yo
 4. **User Agreement & Privacy Policy**
 In order to use Passpack you will need to read and Accept the User Agreement and Privacy Policy . These two documents outline what you can expect from us and how your data will be handled.
 
-## Signing Up with Third Party Credentials
 
-Passpack allows you to use an existing login from one of the supported providers as the login for your Passpack account.
-
-The standard Passpack Login is not required. However, some features do not work with Third Party Logins. For example, the remember me feature and Disposable Loginsare available on standard Passpack logins only.
-
-To use your Third Party Credentials, go to [https://www.passpack.com/online](https://www.passpack.com/online) and click on the provider's icon on the left, then follow the instructions that will appear in the Sign In dialog to the right. 
 
 
 
