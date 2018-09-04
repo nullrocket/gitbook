@@ -4,6 +4,14 @@
 <!--- Start Step --->
 <div>
   <img style="vertical-align:middle" src="/assets/Step 1.png">
+  1. Ist Item  
+First item with having index value 1
+1. 2nd Item  
+Second item having index value 2, beside we gave it 1, which indicates that markdown parser does not break the list.
+1. **3rd Item:**  
+&nbsp;&nbsp;&nbsp;&nbsp;If you want to do something fancy with your list
+  
+  
   <span style="margin-top: 1.275em; margin-bottom: .85em; font-weight: 700; font-size: 1.5em;">
     <!-- Start Step Title ---------->
     User ID
