@@ -22,7 +22,6 @@
 * [Local Data](account/local-data.md)
 * [Deletion](account/deletion.md)
   * [Deletion](account/deletion.md)
-## test
 
 ## Passwords
 
