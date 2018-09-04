@@ -1,11 +1,11 @@
 # The Sign Up Dialog
 ![](/assets/login-dialog.png)
-1. Ist Item
-First item with having index value 1
-1. 2nd Item
+1. **User ID** You will use your User ID to log into your Passpack account. Your User ID must be between 2 and 32 characters long and is case sensitive. 
+2. **Password**
 Second item having index value 2, beside we gave it 1, which indicates that markdown parser does not break the list.
-1. **3rd Item:**
+3. **Email Address**
 &nbsp;&nbsp;&nbsp;&nbsp;If you want to do something fancy with your list
+4. 
 <!--- Start Step --->
 <div>
   <img style="vertical-align:middle" src="/assets/Step 1.png">
