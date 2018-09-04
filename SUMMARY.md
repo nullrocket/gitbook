@@ -5,8 +5,8 @@
 ## Account
 
 * [Sign Up](account/sign-up.md)
-* [Sign In]()
-* [How to Sign In](account/how-to-sign-in.md)
+* [Sign In](account/sign-in.md)
+  * [How to Sign In](account/how-to-sign-in.md)
 * [Welcome Message](account/welcome-message.md)
 * [On Screen Keyboard](account/on-screen-keyboard.md)
 * [Remember Me](account/remember-me.md)
@@ -22,7 +22,6 @@
 * [Backup](account/backup.md)
 * [Local Data](account/local-data.md)
 * [Deletion](account/deletion.md)
-
 
 ## Passwords
 
