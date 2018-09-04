@@ -6,6 +6,7 @@
 
 * [Registration](account/sign-up.md)
   * [Standard Login](account/standard-sign-up.md)
+  * [Third Party / Social Logins](account/third-party-social-logins.md)
 * [Sign In](account/sign-in/how-to-sign-in.md)
   * [Remember Me](account/remember-me.md)
   * [Third Party Logins](account/sign-in/third-party-logins.md)
