@@ -9,10 +9,6 @@
 
 ## Troubleshooting
 
-##### **When I connect, I just see a logo and a blank white box, or an error message about Javascript.**
-
-Make sure you have Javascript enabled.
-
 ##### **It tells me my User ID and Password are wrong.**
 
 You may be mistyping one or both of them. They are case sensitive, so upper and lower case letters make a difference. For example: _Bob_, _bob_, _BOB_ and _bOb_ are considered completely different User ID's. You can recover \(and double check\) a User ID, or reset a forgotten password using this [self-service form](http://www.passpack.com/reset).
