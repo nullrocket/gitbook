@@ -1,7 +1,7 @@
 #Registration
 Passpack accounts are free. To get your personal Passpack account, go to the Passpack homepage and click on "Sign Up for an Account". 
 
-Registration is fast and only requires you to provide a few pieces of information.
+Registration is fast and requires you to provide a few pieces of information.
 
 ###[Standard Registration](/account/registration/standard-sign-up.md)
 * **User ID**<br/>You will choose your own User ID. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a User ID.
