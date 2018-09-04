@@ -1,3 +1,11 @@
 .alert{
     margin-top: 1.275em; 
 }
+
+.book-summary ul.summary li.header {
+    padding: 10px 15px;
+        padding-top: 10px;
+    padding-top: 20px;
+    color: #222;
+    font-weight: bold;
+}
