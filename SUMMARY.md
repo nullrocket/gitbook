@@ -6,10 +6,10 @@
 
 * [Sign Up](account/sign-up.md)
 * [Sign In](account/sign-in/how-to-sign-in.md)
-  * [Welcome Message](account/welcome-message.md)
-  * [Remember Me](account/remember-me.md)
-  * [On Screen Keyboard](account/on-screen-keyboard.md)
   * [Third Party Logins](account/asd/third-party-logins.md)
+  * [Remember Me](account/remember-me.md)
+  * [Welcome Message](account/welcome-message.md)
+  * [On Screen Keyboard](account/on-screen-keyboard.md)
   * [Recovery](account/recovery.md)
   * [Packing Key](account/security/packing-key.md)
   * [Multifactor Authentication](account/security/multifactor-authentication.md)
