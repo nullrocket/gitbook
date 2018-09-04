@@ -16,29 +16,7 @@ We accept all major credit cards via Paypal.  Paypal may allow you to use a cred
 
 A few days after your payment, an invoice will be posted to your account. This generally takes between 2-3 business days. To see or download your invoices, go to **Account &gt; Invoices** from within your Passpack account.
 
-## Promocodes
 
-Congratulations! People with a _promocode_ have usually won a contest, or have done something extraordinary. Usually a promocode entitles you to a discount, an upgrade or additional services on your Passpack account. Each promocode is unique and can be used only once.
-
-#### How to Use Your Promocode
-
-If you don't have a Passpack account yet, sign up for a free account before continuing. From inside your Passpack account, go to **Account &gt; Packages & Pricing** link in the upper-right hand corner of your screen. The pricing table will appear.
-
-If you have a promocode for a Free+ account, or for additional services on your Free account, click the link **Have a Free+ promocode?** in the _Free_ column. Enter your promocode in the filed that appears and press the OK button.
-
-If you have a discount or free upgrade on a paid account, enter your promocode in the field in the appropriate column then press the red **Buy Now** button. If there is no payment due, you do not have to provide any payment information.
-
-That's it, you're account should be immediately updated.
-
-#### Frequently Asked Promocode Questions
-
-#### Where Can I Get a Promocode?
-
-Promocodes are usually won in a contest, or received as a gift or bonus. If you are a blogger or are running a giveaway, please contact [press@passpack.com](mailto:press@passpack.com) for information on promocodes.
-
-#### Can I Give My Promocode To a Friend?
-
-Yes you can. Promocodes are not assigned to any particular person, however please remember that they can only be used once. If you give your promocode to your friend, you will not be able to use it for yourself.
 
 #### Is there a free trial on paid plans?
 
