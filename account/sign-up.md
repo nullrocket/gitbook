@@ -3,12 +3,12 @@ Passpack accounts are free. Once you have signed up for an account, you will be 
 
 To get your personal Passpack account, go to the Passpack homepage and click on "Sign Up for an Account". Registration is fast and only requires you to provide a few pieces of information.
 
-* User ID
+* **User ID**
   You will choose your own User ID. Like any other online account, this is what Passpack will know you by. some other websites call it a username, screenname, or even nickname -- these are all different words that mean the same thing. Passpack calls it a User ID.
 
   Your User ID must be at least 3 characters longs and it is case sensitive. So consider that as you type. Be careful not to have your CAPS lock (or Shift lock) on.
 
-* Password
+* **Password**
   You will also choose your own Password. This is our way of saying "password" or "pass phrase". We simply use a the shortened word. This way, when reading instructions in the Passpack Help Center, you will be able to tell the difference between the passwords you store in your Passpack account (called "passwords"), and the one you need to login to your Passpack account (the "Password").
 
   Your Password must be at least 6 characters long and is also case sensitive. You can use punctuation, numbers or even spaces. You can also watch the quality rating as you type to see how successful you are, we suggest a quality rating of at least 64 (optional).
