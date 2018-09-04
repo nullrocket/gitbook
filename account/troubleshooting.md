@@ -12,5 +12,4 @@ Please contact support. We'll need to know what browser version and type of comp
 
 Perhaps you are using Passpack Desktop? The self-service password reset form is for Passpack.com online accounts only. Also, if you have not used your account in _over six months_, it may have been considered abandoned and automatically deleted.
 
-If none of these apply, please [contact support and tell us on _exactly_ what step you get stuck](https://support.passpack.com/hc/en-us/requests/new). We'll be happy to see if we can figure out what's wrong. A note to advanced users - browser dev build and non-stable releases are not supported.
-
+If none of these apply, please [contact support and tell us on _exactly_ what step you get stuck](https://support.passpack.com/hc/en-us/requests/new). We'll be happy to see if we can figure out what's wrong.
