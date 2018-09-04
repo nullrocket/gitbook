@@ -6,8 +6,8 @@
 
 * [Sign Up](account/asd/sign-up.md)
 * [How to Sign In](account/how-to-sign-in.md)
-* [On Screen Keyboard](account/on-screen-keyboard.md)
 * [Welcome Message](account/welcome-message.md)
+* [On Screen Keyboard](account/on-screen-keyboard.md)
 * [Remember Me](account/remember-me.md)
 * [Third Party Logins](account/asd/third-party-logins.md)
 * [Recovery](account/recovery.md)
