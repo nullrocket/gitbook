@@ -5,7 +5,7 @@
 ## Account
 
 * [Registration](account/sign-up.md)
-  * [Standard](account/standard-sign-up.md)
+  * [Standard Login](account/standard-sign-up.md)
 * [Sign In](account/sign-in/how-to-sign-in.md)
   * [Remember Me](account/remember-me.md)
   * [Third Party Logins](account/sign-in/third-party-logins.md)
