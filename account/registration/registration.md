@@ -11,8 +11,7 @@ Registration is fast and requires you to provide a few pieces of information.
 
 * **Packing Key**<br/>  Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
 
-* **Email**<br/>You can choose whether or not you want to give Passpack your email address. 
-  It's ok not to, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support and notifications.
+* **Email**<br/>Providing your email address is optional, however we highly suggest you provide your email. It is necessary in order for us to provide you with emergency support,notifications, password resets and other services.
 
 
 ###[Third Party / Social Login Registration](/account/registration/third-party-social-logins.md)
