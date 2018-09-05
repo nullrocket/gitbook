@@ -18,6 +18,7 @@
   * [Packing Key](account/security/packing-key.md)
   * [Troubleshooting](account/troubleshooting.md)
 * [Settings](account/account-settings.md)
+  * [User ID](account/settings/user-id.md)
 * [Subscription and Billing](account/subscription-and-billing.md)
 * [Disposable Logins](account/disposable-logins.md)
 * [Backup](account/backup.md)
