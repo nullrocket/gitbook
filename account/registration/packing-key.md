@@ -1,5 +1,13 @@
 # Packing Key
 
+
+
+* **Packing Key**<br/>  Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
+
+
+
+
+
 Your packing key is arguably the most important part of securing your account. While your Passpack account passwords grants you access to your account, the Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
 
 {% hint style='tip' %}
