@@ -12,11 +12,11 @@
   * [Remember Me](account/remember-me.md)
   * [Third Party Logins](account/sign-in/third-party-logins.md)
   * [Multifactor Authentication](account/security/multifactor-authentication.md)
-  * [Welcome Message](account/welcome-message.md)
   * [On Screen Keyboard](account/on-screen-keyboard.md)
   * [Password Reset & User ID Recovery](account/sign-in/recovery.md)
   * [Packing Key](account/security/packing-key.md)
   * [Troubleshooting](account/troubleshooting.md)
+  * Welcome Message
 * [Settings](account/settings/settings.md)
   * [User ID](account/settings/user-id.md)
   * [Password](account/settings/password.md)
