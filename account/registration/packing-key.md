@@ -2,7 +2,7 @@
 
 
 
-* **Packing Key**<br/>  Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
+* **Packing Key**<br/> Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
 
 
 
