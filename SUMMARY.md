@@ -17,7 +17,7 @@
   * [Password Reset & User ID Recovery](account/sign-in/recovery.md)
   * [Packing Key](account/security/packing-key.md)
   * [Troubleshooting](account/troubleshooting.md)
-* [Settings](account/account-settings.md)
+* [Settings](account/settings/settings.md)
   * [User ID](account/settings/user-id.md)
 * [Subscription and Billing](account/subscription-and-billing.md)
 * [Disposable Logins](account/disposable-logins.md)
