@@ -16,8 +16,6 @@ You want your Packing Key to be as long and strong as possible. The easiest way 
 {% endhint %}
 
 
-Since we do not store your Packing Key, you will have to be very careful to never forget it. We will not be able to recover or reset your key. This probably sounds pretty scary, but it is the safest option.
-
 {% hint style='danger' %}
-DO NOT forget your packing key. We will not be able to recover or reset your key.
+DO NOT forget your packing key. We will not be able to recover your data or reset your key
 {% endhint %}
