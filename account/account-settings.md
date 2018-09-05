@@ -8,17 +8,8 @@ To make a printout of your _User ID, Password and Packing Key_, enter your Passp
 
 When you have finished printing, press the **Back** button and you will return to your Passpack account.
 
-## How to Change Your User ID
 
-From within your Passpack account, go to Account &gt; Change User ID. You will be asked to insert your Packing Key for security, and then to choose a new User ID.  A confirmation message will tell you if the process was a success.
 
-## How to Change Your Password
-
-From within your Passpack account, go to Account &gt; Change Password. You will be asked to insert your Packing Key for security, and then to choose a Password. You will be asked to type it in twice to make sure you are typing it properly. The quality rating bar will help you make sure your Password is strong. A confirmation message will tell you if the process was a success.
-
-## How to Change Your Packing Key
-
-From within your Passpack account, go to Account &gt; Change Packing Key. You will be asked to insert your current Packing Key for security, and then to choose a new one. You will be asked to type it in twice to make sure you are typing it properly. The quality rating bar will help you make sure your Packing Key is strong. A confirmation message will tell you if the process was a success.
 
 ## How to confirm and manage your email?
 
