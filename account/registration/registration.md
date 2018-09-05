@@ -1,5 +1,5 @@
 #Registration
-Passpack accounts are free and registration is fast. Registration requires you to provide a few pieces of information depending on which registration method you use. [Visit the registration page](https://www.passpack.com/online/#0)
+Passpack accounts are free and registration is fast. Registration requires you to provide a few pieces of information depending on which registration method you use. [Visit the registration page](https://www.passpack.com/signup)
 
 ###[Standard Registration](/account/registration/standard-sign-up.md)
 * **User ID**
