@@ -14,7 +14,7 @@ Registration requires you to provide a few pieces of information depending on wh
 
 4. **User Agreement & Privacy Policy**<br/>In order to use Passpack you will need to read and Accept the User Agreement and Privacy Policy . These two documents outline what you can expect from us and how your data will be handled.
 
-
+<br/>
 
 
 ![](/assets/login-dialog.png)
