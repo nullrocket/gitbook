@@ -1,7 +1,7 @@
 #Startup options
 
 Choose what you want Passpack to do right after you sign in to make it better fit your habits and load faster. To set your preferences go to **Settings &gt; Startup Options**.
-
+<br/>
 ![](/assets/startup-options.jpg)
 
 **\(1\)** Choose Home to go to your Home tab after signing in. Choose Passwords to view your password list instead. 
