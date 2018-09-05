@@ -1,14 +1,16 @@
-#Choose a Packing Key
-
-During registration you will be prompted to create a Packing Key. 
+#Packing Key
 
 Your packing key is an important part of securing your account. The Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all encryption/decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
 
+
+ 
+
+
+###Choosing a Packing Key
+During registration you will be prompted to create a Packing Key. Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
+
 ![](/assets/packing-key.png)
 
-<br/>
-
-**Choosing a Packing Key**<br/> Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
 
 
 {% hint style='tip' %}
