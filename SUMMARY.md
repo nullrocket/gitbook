@@ -23,6 +23,7 @@
   * [Packing Key](account/settings/packing-key.md)
   * [Email](account/settings/email.md)
   * [Welcome Message](account/settings/welcome-message.md)
+  * [Start up options](account/settings/start-up-options.md)
 * [Subscription and Billing](account/subscription-and-billing.md)
 * [Disposable Logins](account/disposable-logins.md)
 * [Backup](account/backup.md)
