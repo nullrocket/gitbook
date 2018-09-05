@@ -9,6 +9,6 @@ Passpack accounts are free and registration is fast. Registration requires you t
 
 ###[Third Party / Social Login Registration](/account/registration/third-party-social-logins.md)
 
-If you have an OpenID, a Gmail, a Hotmail, Yahoo, Facebook, FriendFeed or Twitter account you can login to Passpack with one of these accounts.
+If you have an OpenID, a Gmail, a Hotmail, Yahoo, Facebook, FriendFeed or Twitter account you can login to Passpack with one of these accounts. 
 
 
