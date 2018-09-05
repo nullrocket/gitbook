@@ -2,7 +2,7 @@
 
 During registration you will be prompted to create a Packing Key. 
 
-Your packing key is arguably the most important part of securing your account. The Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all encryption/decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
+Your packing key is an important part of securing your account. The Packing Key is used to decrypt your stored passwords. In order to ensure your passwords are safe no matter what happens, Packing Keys are not stored on our servers and all encryption/decryption happens on your computer. Passwords are never stored or transmitted without first being encrypted by your Packing Key.
 
 ![](/assets/packing-key.png)
 
