@@ -1,6 +1,6 @@
-### How to set your startup options?
+#Startup options
 
-Choose what you want Passpack to do right after you sign in to make it better fit your habits and load more quickly. To set your preferences, go into your Settings &gt; Startup Options.
+Choose what you want Passpack to do right after you sign in to make it better fit your habits and load faster. To set your preferences go to **Settings &gt; Startup Options**.
 
 ![](/assets/startup-options.jpg)
 
