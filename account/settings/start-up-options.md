@@ -14,12 +14,12 @@ In addition, some people like to login to Passpack in the morning, forget about 
 * **Unpack everything**<br/> This is the default option. Fine for most people, but very slow if you have many entries. 
 * **Unpack everything - then turn on 1 Click Login**<br/> Best for people with not too many entries, or who don't use Favorites, but DO use 1 Click Login frequently. 
 * **Just unpack my favorites \(the ones with stars\)**<br/> This will only load your Favorites. To load your other entries, you will need to do so manually. 
-4. Just unpack my favorites - then turn on 1 Click Login for my favorites only This is similar to option \#3, however it will also automatically activate 1 Click Login for you. Only your Favorites will be available for 1 Click Login. 
-5. First unpack my favorites - then unpack the rest in the background This will load your Favorites first, show them in your list, then continue to load the rest of your entries so that you don't have to do so manually. 
-6. First unpack my favorites - then turn on 1 Click Login - then unpack the rest in the background This is a combination of option \#4 and \#5. Your favorites will load first, and 1 Click Login activated for them right away. Then Passpack will continue to load the rest of your entries so that you don't have to do so manually. once that is complete, ALL of your entries will available for 1 Click Login. 
-7. Don't unpack anything A bit drastic, but certainly the absolute fastest. Good when you usually connect from an iPhone or PDA because it does not stress the device's low memory.
+* **Just unpack my favorites - then turn on 1 Click Login**<br/> This is similar to option \#3, however it will also automatically activate 1 Click Login for you. Only your Favorites will be available for 1 Click Login. 
+* **First unpack my favorites - then unpack the rest in the background**<br/> This will load your Favorites first, show them in your list, then continue to load the rest of your entries so that you don't have to do so manually. 
+* **First unpack my favorites - then turn on 1 Click Login - then unpack the rest in the background**<br/> This is a combination of option \#4 and \#5. Your favorites will load first, and 1 Click Login activated for them right away. Then Passpack will continue to load the rest of your entries so that you don't have to do so manually. once that is complete, ALL of your entries will available for 1 Click Login. 
+* **Don't unpack anything**<br/> A bit drastic, but certainly the absolute fastest. Good when you usually connect from an iPhone or PDA because it does not stress the device's low memory.
 
-**It does not matter if you have chosen to view the Home tab or the Passwords tab upon login, all of the above options will work either way.**
+  **_It does not matter if you have chosen to view the Home tab or the Passwords tab upon login, all of the above options will work either way._**
 
 **\(3\)** Click **Save Changes** when you are done. 
 
