@@ -9,6 +9,8 @@ Your packing key is an important part of securing your account. The Packing Key 
 ###Choosing a Packing Key
 During registration you will be prompted to create a Packing Key. Your Packing Key must be at least 8 characters long and is also case sensitive. You can (and should!) use punctuation, numbers or even spaces. We suggest a quality rating of at least 80 (optional).
 <br/>
+<br/>
+
 ![](/assets/packing-key.png)
 
 <br/>
